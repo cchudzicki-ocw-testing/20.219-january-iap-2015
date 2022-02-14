@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 13: Screening (Final Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Student Interview: Yuliya'
 uid: 4672c2f7-c094-53a0-7cde-24f9d4064c80

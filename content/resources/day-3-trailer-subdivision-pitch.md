@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Paul (PJ) Folino's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Day 3 Trailer: Subdivision Pitch'
 uid: 3c665d01-b608-9199-a462-cc2b1510e997

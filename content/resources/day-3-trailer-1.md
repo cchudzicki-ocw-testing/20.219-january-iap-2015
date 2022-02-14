@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 3 Trailer
 uid: 5cba30d1-5ae4-6975-0f9f-36b6aee5dd34

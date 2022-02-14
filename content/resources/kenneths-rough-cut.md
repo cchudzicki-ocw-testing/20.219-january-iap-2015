@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Kenneth's rough cut
 uid: 335dd802-1a9b-d787-43a7-bf80b3f5650f

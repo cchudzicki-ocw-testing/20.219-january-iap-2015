@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PJ's rough cut
 uid: 6e7e17a5-8908-3054-486c-938a672f1825

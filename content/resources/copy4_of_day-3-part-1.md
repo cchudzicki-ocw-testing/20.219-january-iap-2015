@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 3: Storyteller''s Toolkit Pt. 1'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Workshop: David''s script'
 uid: 8840c9c6-8ef5-0077-63d4-623b4a1ea296

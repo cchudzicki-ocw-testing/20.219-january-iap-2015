@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Interview: Assessment and Feedback in Creative Contexts'
 uid: 37559c50-f260-24ec-9c89-75a5e7ac978a

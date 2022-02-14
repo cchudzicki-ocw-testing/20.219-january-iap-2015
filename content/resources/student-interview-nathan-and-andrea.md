@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 13: Screening (Final Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Student Interview: Nathan and Andrea'
 uid: ffc0807a-8eec-9490-c678-624ce2eb0f00

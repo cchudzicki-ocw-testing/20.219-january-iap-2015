@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 6: Table-read and Office Hours'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: PJ's Table-read
 uid: 28dcf6c5-dda0-0f85-ed3f-fd76fdcad2bd

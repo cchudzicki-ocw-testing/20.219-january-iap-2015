@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Interview: A Class on Pre-Production'
 uid: fb9aef4b-2454-2e0e-df12-b76b6da6c798

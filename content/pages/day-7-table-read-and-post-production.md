@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: 'Day 7: Table-read and Post-production'
+type: CourseSection
 uid: d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d
 ---
 

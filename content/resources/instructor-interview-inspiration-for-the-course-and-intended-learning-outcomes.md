@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Interview: Inspiration for the Course and Intended Learning outcomes'
 uid: f079282d-f10a-bc02-5d05-341dd52e2d8a

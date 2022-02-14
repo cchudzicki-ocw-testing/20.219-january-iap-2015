@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Yuliya Klochan's Project
+parent_type: CourseSection
 resourcetype: Image
 title: YuliyaKlochan-day4storyboard-1.jpg
+type: OCWImage
 uid: 2636f62e-5962-0991-db84-bb783891c615
 ---

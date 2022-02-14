@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Andrea Desrosiers' Project
+parent_type: CourseSection
 resourcetype: Image
 title: AndreaDesrosiers-day4storyboard-1.jpg
+type: OCWImage
 uid: 54725ae5-a468-ae43-78f2-f32beb0dc68f
 ---

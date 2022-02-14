@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 title: Calendar
+type: CourseSection
 uid: 425fa285-f1a6-adea-4de3-e852e4e9b44a
 ---
 

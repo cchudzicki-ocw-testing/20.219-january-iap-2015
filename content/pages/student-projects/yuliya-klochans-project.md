@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Student Projects
+parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Yuliya Klochan's Project
+type: CourseSection
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
 ---
 
@@ -337,7 +340,7 @@ Look around you. What beautiful patterns do you see?
 
 *   Stata: Dark black / blue clothing to contrast murals; Props: Chalk, tissue, cell phone
 *   Outdoors: Light blue winter jacket, black pants and gloves
-*   EC Shower: Flip flops, I <3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
+*   EC Shower: Flip flops, I \<3 MIT T shirt, black sports pants; Props: Sponge, soap, cup, towel, phone (anything glued on?)
 *   Office / Indoor Locations: Blue dress; Props: Laptop, bent wire (string?)
 
 ### Locations

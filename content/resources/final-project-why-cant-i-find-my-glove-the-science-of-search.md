@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Final Project: Why can''t I find my glove? The Science of Search'
 uid: 11250ad8-ad7f-167c-266e-8e512d400e96

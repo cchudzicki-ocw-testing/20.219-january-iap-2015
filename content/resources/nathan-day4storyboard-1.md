@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Nathan Hernandez's Project
+parent_type: CourseSection
 resourcetype: Image
 title: Nathan-day4storyboard-1.jpg
+type: OCWImage
 uid: ca053e7d-2a25-b1c3-5da7-d32369a2ddda
 ---

@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Planning Backwards
+parent_type: CourseSection
 resourcetype: Image
 title: eliz-lec.jpg
+type: OCWImage
 uid: fa64ae45-0481-4282-31e0-eafef25a5aab
 ---

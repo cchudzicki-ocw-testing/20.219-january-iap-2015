@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 5: Storyteller''s Toolkit Pt. 3'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Day 5, Part 2
 uid: 2f8409ce-b7ab-8635-da89-199f48928e8f

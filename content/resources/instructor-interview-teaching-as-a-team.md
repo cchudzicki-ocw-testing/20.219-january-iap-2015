@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Interview: Teaching as a Team'
 uid: b4aab433-321e-3c46-9c8e-3cd78eb0c343

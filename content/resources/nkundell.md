@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the Instructors
+parent_type: CourseSection
 resourcetype: Image
 title: NKundell.jpg
+type: OCWImage
 uid: 14236a86-6741-6a8e-a7dd-ba7dc69f61ef
 ---

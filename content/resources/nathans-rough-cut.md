@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Nathan's rough cut
 uid: 096a0d9b-8dc1-bf97-1873-587c9954c1d9

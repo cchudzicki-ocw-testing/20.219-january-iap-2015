@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 3: Storyteller''s Toolkit Pt. 1'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Ira Glass on Storytelling
 uid: a319535f-667c-7e22-d7ab-e610c724dcda

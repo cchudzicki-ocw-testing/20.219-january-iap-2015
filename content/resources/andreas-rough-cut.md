@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Andrea's rough cut
 uid: 1632ee29-e7b6-67e4-fa1e-de4ea96d35e7

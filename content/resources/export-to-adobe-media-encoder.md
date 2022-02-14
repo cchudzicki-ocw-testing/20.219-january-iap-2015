@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 8, 9, & 10: Project Time'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Export to Adobe Media Encoder
 uid: bc899937-a1b6-c61f-e321-2a52126ddebb

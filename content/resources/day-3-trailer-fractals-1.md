@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Yuliya Klochan's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Day 3 Trailer: Fractals!'
 uid: 0cce493e-b93f-c3e9-4588-155aec2dce0f

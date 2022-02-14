@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Student Reflections
+type: CourseSection
 uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 ---
 

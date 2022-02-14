@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Joshua Cheong's Project
+parent_type: CourseSection
 resourcetype: Image
 title: Joshua-Cheong---day-4-story.jpg
+type: OCWImage
 uid: 9533ce82-7a08-ebf8-6930-7baf309a7813
 ---

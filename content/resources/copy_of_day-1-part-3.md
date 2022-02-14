@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 1: Identity and Genre'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Explanation of Day 1 assignments
 uid: 42d63580-2ac0-59d2-7b9b-72fdc30b5dd6

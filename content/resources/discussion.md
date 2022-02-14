@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Cultivating a Healthy Classroom Culture
+parent_type: CourseSection
 resourcetype: Image
 title: discussion.jpg
+type: OCWImage
 uid: e5a87dcd-e921-d5db-5341-53a1d5c4a60c
 ---

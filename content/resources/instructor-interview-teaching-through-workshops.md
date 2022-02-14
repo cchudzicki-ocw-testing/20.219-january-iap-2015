@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Instructor Interview: Teaching through Workshops'
 uid: be800c68-3d72-ecaf-3af4-e7d6c9612779

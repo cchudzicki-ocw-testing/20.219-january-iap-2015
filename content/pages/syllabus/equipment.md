@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 title: Equipment
+type: CourseSection
 uid: ad3ae351-22ea-cbd5-88b3-8186e7c06469
 ---
 

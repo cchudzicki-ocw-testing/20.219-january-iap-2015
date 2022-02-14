@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 3: Storyteller''s Toolkit Pt. 1'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Workshop: Kenneth''s script'
 uid: 4e925bca-1e5e-6f25-a67b-4f7ebfabdea6

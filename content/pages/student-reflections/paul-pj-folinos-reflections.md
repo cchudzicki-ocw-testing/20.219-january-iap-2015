@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Paul (PJ) Folino's Reflections
+type: CourseSection
 uid: 3c8916c0-2b40-6ad3-1644-162454be10f0
 ---
 

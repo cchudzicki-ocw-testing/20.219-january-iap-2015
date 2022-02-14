@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Meet the Instructors
+parent_type: CourseSection
 resourcetype: Image
 title: EChoe.jpg
+type: OCWImage
 uid: a0430245-007f-3234-3f08-0b4ff6edd325
 ---

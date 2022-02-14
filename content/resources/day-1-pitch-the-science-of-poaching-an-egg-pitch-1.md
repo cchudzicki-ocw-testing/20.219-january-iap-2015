@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Paul (PJ) Folino's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Day 1 Pitch: The Science of Poaching an Egg Pitch'
 uid: 1814d85e-b530-0b7d-b278-765feb1c8e78

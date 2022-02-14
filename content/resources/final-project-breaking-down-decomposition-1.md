@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Nathan Hernandez's Project
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Final Project: Breaking Down Decomposition'
 uid: 7031f7be-ca8b-2ffa-1a47-555bc3c4c018

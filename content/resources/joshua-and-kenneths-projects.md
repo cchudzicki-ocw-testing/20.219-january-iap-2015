@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 8, 9, & 10: Project Time'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Joshua and Kenneth's projects
 uid: 2e89dc55-cf6c-490c-57a9-6d00bcd6d13f

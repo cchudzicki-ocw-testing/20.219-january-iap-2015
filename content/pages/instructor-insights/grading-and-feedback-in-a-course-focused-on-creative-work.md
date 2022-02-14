@@ -1,9 +1,12 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
 parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 title: Grading and Feedback in a Course Focused on Creative Work
+type: CourseSection
 uid: f1e55a73-f7ce-a5df-7f8c-3cdb40b62292
 ---
 

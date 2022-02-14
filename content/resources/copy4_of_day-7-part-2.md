@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 7: Table-read and Post-production'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Questions and wrap up (2:01:50)
 uid: 3a209918-e978-da9c-cebe-f89db07ebab1

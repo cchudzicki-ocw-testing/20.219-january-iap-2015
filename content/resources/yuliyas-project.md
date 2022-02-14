@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Days 8, 9, & 10: Project Time'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: Yuliya's project
 uid: 1dad8d72-1a9c-bcf7-035a-a5b66f9cce0a

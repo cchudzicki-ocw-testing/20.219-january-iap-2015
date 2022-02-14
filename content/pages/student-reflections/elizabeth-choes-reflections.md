@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Student Reflections
+parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Elizabeth Choe's Reflections
+type: CourseSection
 uid: b923e518-c6b9-9f57-0dd9-04b61083f145
 ---
 

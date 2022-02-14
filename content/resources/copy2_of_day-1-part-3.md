@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 1: Identity and Genre'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube'
 uid: 899f93ea-ecd2-0cb7-6092-45b9f1f54fcb

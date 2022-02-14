@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: timeline_thumb.png
+type: OCWImage
 uid: 77291066-52bb-5c11-722e-60e97ad6e4af
 ---

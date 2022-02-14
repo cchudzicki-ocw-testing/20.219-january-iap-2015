@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Paul (PJ) Folino's Project
+parent_type: CourseSection
 resourcetype: Image
 title: Folino-day4storyboard-1.jpg
+type: OCWImage
 uid: 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b
 ---

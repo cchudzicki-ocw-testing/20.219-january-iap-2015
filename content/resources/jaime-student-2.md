@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Grading and Feedback in a Course Focused on Creative Work
+parent_type: CourseSection
 resourcetype: Image
 title: jaime-student-2.jpg
+type: OCWImage
 uid: 32fb47cf-ace3-41f6-81c7-97a704b155e6
 ---

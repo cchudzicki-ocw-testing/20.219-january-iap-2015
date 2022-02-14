@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Yuliya Klochan's Project
+parent_type: CourseSection
 resourcetype: Image
 title: work8YulKlochan.jpg
+type: OCWImage
 uid: 46aaa846-b699-f143-f03e-dc11c43fc874
 ---

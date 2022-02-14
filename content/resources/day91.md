@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Elizabeth Choe's Reflections
+parent_type: CourseSection
 resourcetype: Image
 title: day91.jpg
+type: OCWImage
 uid: 475332e9-ecde-3d4a-b079-f6325ddbfdd4
 ---

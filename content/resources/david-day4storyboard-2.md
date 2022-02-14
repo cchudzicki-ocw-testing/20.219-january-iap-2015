@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: David Yam's Project
+parent_type: CourseSection
 resourcetype: Image
 title: David-day4storyboard-2.jpg
+type: OCWImage
 uid: cf66a17e-35e4-c122-dff4-d39286042c31
 ---

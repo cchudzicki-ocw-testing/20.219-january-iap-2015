@@ -1,8 +1,11 @@
 ---
 content_type: page
+learning_resource_types: []
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 title: Readings
+type: CourseSection
 uid: d6745b83-32b8-0e0a-86c1-9e2d07a85d87
 ---
 

@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Day 4: Storyteller''s Toolkit Pt. 2'
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Workshop: Storyboarding example'
 uid: c31814db-16fd-924c-edb0-34458c0e6eb8
