@@ -5,7 +5,6 @@ parent_title: Student Projects
 parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Joshua Cheong's Project
-type: CourseSection
 uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 ---
 

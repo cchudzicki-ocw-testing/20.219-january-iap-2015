@@ -9,6 +9,5 @@ parent_title: 'Day 7: Table-read and Post-production'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT20_219IAP15_Joshua.docx
-type: OCWFile
 uid: 889e423b-42ea-fc22-53c1-eb0b9733838f
 ---

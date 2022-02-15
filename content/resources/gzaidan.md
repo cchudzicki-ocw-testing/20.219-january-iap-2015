@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: GZaidan.jpg
-type: OCWImage
 uid: e134854e-4e26-2c34-8414-f090f94b9271
 ---

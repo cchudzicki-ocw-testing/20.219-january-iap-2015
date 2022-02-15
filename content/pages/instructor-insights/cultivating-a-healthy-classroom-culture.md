@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 title: Cultivating a Healthy Classroom Culture
-type: CourseSection
 uid: 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c
 ---
 

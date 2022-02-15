@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: what_is_a_fractal.srt
-type: OCWFile
 uid: 428ec5d9-abcb-5009-82fa-11c5980b6b2d
 ---

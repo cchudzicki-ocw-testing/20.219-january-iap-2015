@@ -5,7 +5,6 @@ parent_title: Student Reflections
 parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Andrea Desrosiers' Reflections
-type: CourseSection
 uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
 ---
 

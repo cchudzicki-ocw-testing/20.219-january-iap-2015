@@ -5,7 +5,6 @@ parent_title: Student Reflections
 parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: David Yam's Reflections
-type: CourseSection
 uid: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
 ---
 

@@ -8,6 +8,5 @@ parent_title: Teaching Reflections Timeline
 parent_type: CourseSection
 resourcetype: Other
 title: timeline.json
-type: OCWFile
 uid: bf5ba865-2429-cf65-632c-c410a7468cfc
 ---

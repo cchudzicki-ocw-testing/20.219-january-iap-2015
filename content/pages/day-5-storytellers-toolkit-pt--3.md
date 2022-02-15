@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Day 5: Storyteller''s Toolkit Pt. 3'
-type: CourseSection
 uid: eee7bfe9-1be2-975c-496f-b04747f0e092
 ---
 

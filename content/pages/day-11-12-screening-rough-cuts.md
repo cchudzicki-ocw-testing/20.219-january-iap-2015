@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Days 11 & 12: Screening (Rough Cuts)'
-type: CourseSection
 uid: 91a83a5a-9923-d001-da64-fbbcd37341cb
 ---
 

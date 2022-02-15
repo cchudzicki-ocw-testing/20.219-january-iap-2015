@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: JoshGunn.jpg
-type: OCWImage
 uid: 9f7b1bf0-992d-f509-2490-44d54e29fec1
 ---

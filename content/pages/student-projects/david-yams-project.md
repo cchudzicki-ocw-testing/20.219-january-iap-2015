@@ -5,7 +5,6 @@ parent_title: Student Projects
 parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: David Yam's Project
-type: CourseSection
 uid: a70c0b56-5698-6d46-0ee2-e877495297b2
 ---
 

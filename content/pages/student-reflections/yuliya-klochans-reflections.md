@@ -5,7 +5,6 @@ parent_title: Student Reflections
 parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Yuliya Klochan's Reflections
-type: CourseSection
 uid: 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c
 ---
 

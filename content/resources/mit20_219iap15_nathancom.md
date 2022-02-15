@@ -8,6 +8,5 @@ parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
 parent_type: CourseSection
 resourcetype: Document
 title: Comments on Nathan's Rough Cut
-type: OCWFile
 uid: 54f25f5e-7016-103a-038c-790f2f485bb2
 ---

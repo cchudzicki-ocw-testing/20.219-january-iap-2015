@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: CBoebel.jpg
-type: OCWImage
 uid: e6bf67cb-4aeb-9315-f9b6-dc4deb931b1d
 ---

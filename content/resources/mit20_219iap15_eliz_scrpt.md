@@ -9,6 +9,5 @@ parent_title: 'Day 2: Audience'
 parent_type: CourseSection
 resourcetype: Document
 title: 'Day 2 Script: Elizabeth''s (very) Rough Draft'
-type: OCWFile
 uid: 3ada2ee8-0d25-0e3f-1cba-3fb4f00205e1
 ---

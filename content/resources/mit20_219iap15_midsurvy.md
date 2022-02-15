@@ -8,6 +8,5 @@ parent_title: 'Day 7: Table-read and Post-production'
 parent_type: CourseSection
 resourcetype: Document
 title: Midpoint Survey
-type: OCWFile
 uid: 0ca33476-042a-8cc2-e31d-cdf2b7e2848d
 ---

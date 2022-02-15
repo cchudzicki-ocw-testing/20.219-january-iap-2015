@@ -5,7 +5,6 @@ parent_title: Syllabus
 parent_type: CourseSection
 parent_uid: 203eeb3a-4839-933a-901c-efa7c34f24d7
 title: Grading
-type: CourseSection
 uid: 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf
 ---
 

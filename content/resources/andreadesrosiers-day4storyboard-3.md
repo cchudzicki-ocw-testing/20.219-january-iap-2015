@@ -12,6 +12,5 @@ parent_title: Andrea Desrosiers' Project
 parent_type: CourseSection
 resourcetype: Image
 title: AndreaDesrosiers-day4storyboard-3.jpg
-type: OCWImage
 uid: 150fd516-a18e-0e65-4cf6-3a1279e1b646
 ---

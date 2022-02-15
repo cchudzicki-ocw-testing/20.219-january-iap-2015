@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: how_do_ships_float.srt
-type: OCWFile
 uid: be7ca911-5695-5215-8b61-7bdcb515c593
 ---

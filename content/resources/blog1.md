@@ -12,6 +12,5 @@ parent_title: Elizabeth Choe's Reflections
 parent_type: CourseSection
 resourcetype: Image
 title: blog1.jpg
-type: OCWImage
 uid: bae617e8-7850-cc5e-ca4b-8c7050f7982d
 ---

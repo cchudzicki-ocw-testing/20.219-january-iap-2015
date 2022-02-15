@@ -5,7 +5,6 @@ parent_title: Student Reflections
 parent_type: CourseSection
 parent_uid: dadfeb11-98fb-e700-d205-d71a4c85f081
 title: Nathan Hernandez's Reflections
-type: CourseSection
 uid: f96632a8-8b42-25f3-f84e-318abddd7856
 ---
 

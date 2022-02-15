@@ -8,6 +8,5 @@ parent_title: Grading
 parent_type: CourseSection
 resourcetype: Document
 title: Grading Rubric for STEM Nuggets
-type: OCWFile
 uid: c2ed478e-e025-e0c8-1ba0-6c63caeef992
 ---

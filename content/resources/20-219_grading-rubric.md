@@ -8,6 +8,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Document
 title: 20-219_grading-rubric.pdf
-type: OCWFile
 uid: 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7
 ---

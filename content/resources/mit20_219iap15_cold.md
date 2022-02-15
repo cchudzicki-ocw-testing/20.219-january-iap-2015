@@ -9,6 +9,5 @@ parent_title: 'Day 6: Table-read and Office Hours'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT20_219IAP15_Cold.docx
-type: OCWFile
 uid: fa6a637a-f9a2-4439-c26e-c60782a671fc
 ---

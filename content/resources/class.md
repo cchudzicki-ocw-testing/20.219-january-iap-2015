@@ -13,6 +13,5 @@ parent_title: Student Projects
 parent_type: CourseSection
 resourcetype: Image
 title: class.jpg
-type: OCWImage
 uid: 82977c42-5495-d6b5-5f55-ce43414c690a
 ---

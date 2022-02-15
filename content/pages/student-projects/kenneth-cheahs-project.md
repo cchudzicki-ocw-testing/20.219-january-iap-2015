@@ -5,7 +5,6 @@ parent_title: Student Projects
 parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Kenneth Cheah's Project
-type: CourseSection
 uid: a8052e86-91ed-d84e-9df2-c28f872ebec6
 ---
 

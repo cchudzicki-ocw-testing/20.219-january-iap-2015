@@ -12,6 +12,5 @@ parent_title: Yuliya Klochan's Project
 parent_type: CourseSection
 resourcetype: Image
 title: work8YulKlochan1.jpg
-type: OCWImage
 uid: 1e45e705-75a1-3a24-7cc5-d10d2834b79e
 ---

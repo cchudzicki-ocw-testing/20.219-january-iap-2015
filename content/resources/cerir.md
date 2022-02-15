@@ -12,6 +12,5 @@ parent_title: Meet the Instructors
 parent_type: CourseSection
 resourcetype: Image
 title: CeriR.jpg
-type: OCWImage
 uid: ea564a4f-b2da-028f-70b5-d78505447e25
 ---

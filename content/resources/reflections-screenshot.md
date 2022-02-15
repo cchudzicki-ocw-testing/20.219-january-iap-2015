@@ -12,6 +12,5 @@ parent_title: Student Reflections
 parent_type: CourseSection
 resourcetype: Image
 title: reflections-screenshot.jpg
-type: OCWImage
 uid: 93bb33b6-5d7f-3d03-5f33-c1fb9f0322fb
 ---

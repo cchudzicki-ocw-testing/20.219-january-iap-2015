@@ -12,6 +12,5 @@ parent_title: Elizabeth Choe's Reflections
 parent_type: CourseSection
 resourcetype: Image
 title: day9_3.jpg
-type: OCWImage
 uid: c4311423-d395-246e-3bef-043c7361cdb1
 ---

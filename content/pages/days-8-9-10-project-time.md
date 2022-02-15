@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: 'Days 8, 9, & 10: Project Time'
-type: CourseSection
 uid: dd2e9064-39f5-8292-7c78-a9141317dcc6
 ---
 

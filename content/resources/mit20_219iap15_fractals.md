@@ -9,6 +9,5 @@ parent_title: 'Day 6: Table-read and Office Hours'
 parent_type: CourseSection
 resourcetype: Other
 title: MIT20_219IAP15_Fractals.docx
-type: OCWFile
 uid: 3c915481-a58d-47dd-1c87-e8c260dde10a
 ---

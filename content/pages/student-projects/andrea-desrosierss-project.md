@@ -5,7 +5,6 @@ parent_title: Student Projects
 parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Andrea Desrosiers' Project
-type: CourseSection
 uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
 

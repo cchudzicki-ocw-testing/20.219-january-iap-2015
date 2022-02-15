@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: what_is_a_fractal.srt
-type: OCWFile
 uid: e3e1e19d-b481-bf1d-39eb-dec23adfdaae
 ---

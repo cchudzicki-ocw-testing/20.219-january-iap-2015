@@ -8,6 +8,5 @@ parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
 parent_type: CourseSection
 resourcetype: Document
 title: Comments on Joshua's Rough Cut
-type: OCWFile
 uid: cef98b83-aedd-875b-dbb8-241bf6e9abe6
 ---

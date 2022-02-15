@@ -5,7 +5,6 @@ parent_title: Student Projects
 parent_type: CourseSection
 parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Paul (PJ) Folino's Project
-type: CourseSection
 uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
 

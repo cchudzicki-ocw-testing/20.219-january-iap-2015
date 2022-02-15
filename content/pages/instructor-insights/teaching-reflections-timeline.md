@@ -6,7 +6,6 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 title: Teaching Reflections Timeline
-type: CourseSection
 uid: bff85acf-9745-fca1-40eb-0d6936576b7c
 ---
 

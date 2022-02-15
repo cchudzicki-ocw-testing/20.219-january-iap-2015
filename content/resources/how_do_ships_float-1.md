@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: How Do Ships Float? Transcript
-type: OCWFile
 uid: 856f5fdb-dbea-c764-63c2-ab85bf0a56bd
 ---

@@ -6,6 +6,5 @@ file_type: application/pdf
 learning_resource_types: []
 resourcetype: Document
 title: How Do Braces Work? Transcript
-type: OCWFile
 uid: ac9fa6ba-0bef-d526-6c61-a20dfd69a25b
 ---

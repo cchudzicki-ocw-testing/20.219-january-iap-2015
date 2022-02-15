@@ -8,6 +8,5 @@ parent_title: 'Days 11 & 12: Screening (Rough Cuts)'
 parent_type: CourseSection
 resourcetype: Document
 title: Comments on Andrea's Rough Cut
-type: OCWFile
 uid: bce8f892-6c1a-f8f2-4fb8-072ee79e862d
 ---

@@ -6,6 +6,5 @@ file_type: application/x-subrip
 learning_resource_types: []
 resourcetype: Other
 title: how_do_braces_work.srt
-type: OCWFile
 uid: c814668f-0d4b-afb1-5c2b-71f658221295
 ---
