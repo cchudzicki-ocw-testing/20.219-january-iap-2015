@@ -5,6 +5,7 @@ description: This resource contains information regarding elizabeth's stem nugge
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/3ada2ee80d250e3f1cba3fb4f00205e1_MIT20_219IAP15_Eliz_scrpt.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Day 2: Audience'
 parent_type: CourseSection
 resourcetype: Document

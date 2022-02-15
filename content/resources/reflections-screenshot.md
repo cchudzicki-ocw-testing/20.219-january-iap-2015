@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: A screenshot of the course Tumblr.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Student Reflections
 parent_type: CourseSection
 resourcetype: Image

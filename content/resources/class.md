@@ -9,6 +9,7 @@ image_metadata:
   credit: Photograph by MIT OpenCourseWare.
   image-alt: Several people in a classroom sitting at tables in a discussion.
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Student Projects
 parent_type: CourseSection
 resourcetype: Image

@@ -8,6 +8,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+ocw_type: OCWImage
 parent_title: Paul (PJ) Folino's Project
 parent_type: CourseSection
 resourcetype: Image

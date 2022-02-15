@@ -4,6 +4,7 @@ description: This resource contains information regarding grading.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/c2ed478ee025e0c81ba06c63caeef992_MIT20_219IAP15_GradngRubrc.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Grading
 parent_type: CourseSection
 resourcetype: Document

@@ -1,6 +1,7 @@
 ---
 content_type: page
 learning_resource_types: []
+ocw_type: CourseSection
 title: 'Day 1: Identity and Genre'
 uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 ---

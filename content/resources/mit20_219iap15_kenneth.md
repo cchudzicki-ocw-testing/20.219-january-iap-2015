@@ -5,6 +5,7 @@ description: 'This is a resource file that contains information regarding Kennet
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/6c745fe6fb54da07614c3dffffac89c7_MIT20_219IAP15_Kenneth.docx
 file_type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: 'Day 7: Table-read and Post-production'
 parent_type: CourseSection
 resourcetype: Other
