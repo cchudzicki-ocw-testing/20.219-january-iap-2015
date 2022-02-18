@@ -6,7 +6,7 @@ title: 'Day 3: Storyteller''s Toolkit Pt. 1'
 uid: 36586ba5-68db-37ca-a516-348b595214d8
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-2-audience) | [Next]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2) »
+« {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Previous" >}} | {{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Next" >}} »
 
 Contents
 --------
@@ -29,13 +29,13 @@ This session could be called: Making People Care 101. We'll cover what makes for
 
 ### Video chapters
 
-*   [Guidelines for script writing]({{< baseurl >}}/resources/copy_of_day-3-part-1)
-*   [Putting the rules into practice]({{< baseurl >}}/resources/copy2_of_day-3-part-1)
-*   [Ira Glass on Storytelling]({{< baseurl >}}/resources/copy3_of_day-3-part-1)
-*   [Workshop: David's script]({{< baseurl >}}/resources/copy4_of_day-3-part-1)
-*   [Workshop: Kenneth's script]({{< baseurl >}}/resources/copy5_of_day-3-part-1)
-*   [Workshop: Paul's script]({{< baseurl >}}/resources/copy6_of_day-3-part-1)
-*   [Workshop: Andrea's script]({{< baseurl >}}/resources/copy7_of_day-3-part-1)
+*   {{< resource_link 6249fe86-1beb-21a6-e139-2ea03ad82c22 "Guidelines for script writing" >}}
+*   {{< resource_link 4f527314-3b44-1c1c-c26f-10a84c2f6f76 "Putting the rules into practice" >}}
+*   {{< resource_link a319535f-667c-7e22-d7ab-e610c724dcda "Ira Glass on Storytelling" >}}
+*   {{< resource_link 8840c9c6-8ef5-0077-63d4-623b4a1ea296 "Workshop: David's script" >}}
+*   {{< resource_link 4e925bca-1e5e-6f25-a67b-4f7ebfabdea6 "Workshop: Kenneth's script" >}}
+*   {{< resource_link a5e968e7-4e2e-9c0f-67c1-26fefedd44a3 "Workshop: Paul's script" >}}
+*   {{< resource_link 08927d75-1130-672e-ee3e-8df81f5cf5d1 "Workshop: Andrea's script" >}}
 
 ### In-class Media
 
@@ -81,4 +81,4 @@ Record a new STEM pitch and post to class tumblr with #day3trailer. You will nee
 *   [Yuliya's day 3 trailer]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Day_3_Trailer:_Fractals_)
 *   [David's day 3 trailer]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_3_Pitch)
 
-« [Previous]({{< baseurl >}}/pages/day-2-audience) | [Next]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2) »
+« {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Previous" >}} | {{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Next" >}} »

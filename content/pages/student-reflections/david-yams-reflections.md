@@ -9,7 +9,7 @@ title: David Yam's Reflections
 uid: 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections)
+« {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Previous" >}}
 
 [Day 1](#First_Day) | [Day 2](#David_Yam_Day_2_Thoughts) | [Day 4](#Day_4) | [Day 5](#_Day_5_Reflections) | [Day 6](#_Day_6_Reflections) | [Day 11](#Day_11_Thoughts) | [Final Reflections](#Final_Reflections)
 
@@ -131,4 +131,4 @@ David Yam
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections)
+« {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Previous" >}}

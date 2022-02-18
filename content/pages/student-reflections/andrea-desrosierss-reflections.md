@@ -9,7 +9,7 @@ title: Andrea Desrosiers' Reflections
 uid: 0a26ad07-4929-732e-5270-b0bfe8bbced9
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) »
+« {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" >}} | {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" >}} »
 
 [Day 1](#Day_1_Andrea_s_Struggles) | [Day 2](#Day_2_Andrea_s_Struggles) | [Day 3](#Day_3_Reflections) | [Day 4](#Day_4) | [Day 5](#Day_5-Andrea_And_the_Camera) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7_Vlog) | [Day 8](#Day_8_Reflection-Andrea_on_Video) | [Day 11](#Day_11-Andrea_s_Final_Thoughts) | [Final Reflection](#Videos-Andrea)
 
@@ -156,4 +156,4 @@ Thank you 20.219 for making me feel more empowered!
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) »
+« {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Previous" >}} | {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Next" >}} »

@@ -9,7 +9,7 @@ title: Nathan Hernandez's Reflections
 uid: f96632a8-8b42-25f3-f84e-318abddd7856
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections) »
+« {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Previous" >}} | {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Next" >}} »
 
 [Day 1](#Hiji_s_Day_1_Thoughts) | [Day 2](#Hiji_s_Day_2_Thoughts) | [Day 3](#Day_3) | [Day 4](#Day_4_Reflection) | [Day 5](#Day_5_Reflection) | [Day 6](#Day_6_Reflection)
 
@@ -78,4 +78,4 @@ This audio is from [hiji](http://mit219.tumblr.com/tagged/hiji) on Tumblr and is
 
 [_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections) »
+« {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "Previous" >}} | {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Next" >}} »

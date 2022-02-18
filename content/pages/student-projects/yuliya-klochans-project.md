@@ -9,7 +9,7 @@ title: Yuliya Klochan's Project
 uid: 199a8a68-327f-ee7d-62ee-54642710c541
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) | [Next]({{< baseurl >}}/pages/student-projects/david-yams-project) »
+« {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" >}} | {{< resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" >}} »
 
 [_Link to_ _Yuliya Klochan's Page on Tumblr_](http://mit219.tumblr.com/tagged/yklochan)
 
@@ -136,25 +136,25 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![YuliyaKlochan-day4storyboard-1.jpg]({{< resource_file 2636f62e-5962-0991-db84-bb783891c615 >}})
+{{< resource 2636f62e-5962-0991-db84-bb783891c615 >}}
 
-![YuliyaKlochan-day4storyboard-2.jpg]({{< resource_file ec4d041e-daf7-9b5d-f1db-43add958c4e6 >}})
+{{< resource ec4d041e-daf7-9b5d-f1db-43add958c4e6 >}}
 
-![YuliyaKlochan-day4storyboard-3.jpg]({{< resource_file 5219497e-d452-22df-afe0-437da5543672 >}})
+{{< resource 5219497e-d452-22df-afe0-437da5543672 >}}
 
-![YuliyaKlochan-day4storyboard-4.jpg]({{< resource_file 86d44ed7-1c84-08b1-74eb-da42708398bd >}})
+{{< resource 86d44ed7-1c84-08b1-74eb-da42708398bd >}}
 
-![YuliyaKlochan-day4storyboard-5.jpg]({{< resource_file 31442b80-4ebd-46ff-5829-d43178deb7fc >}})
+{{< resource 31442b80-4ebd-46ff-5829-d43178deb7fc >}}
 
-![YuliyaKlochan-day4storyboard-6.jpg]({{< resource_file ddcd52a0-776f-d578-fdbe-a20aaeb5da49 >}})
+{{< resource ddcd52a0-776f-d578-fdbe-a20aaeb5da49 >}}
 
-![YuliyaKlochan-day4storyboard-7.jpg]({{< resource_file 53ddafb7-399c-75d9-7401-14ec0d052fbd >}})
+{{< resource 53ddafb7-399c-75d9-7401-14ec0d052fbd >}}
 
-![YuliyaKlochan-day4storyboard-8.jpg]({{< resource_file 2cd5e78e-a092-d81c-5ae4-d1998065da83 >}})
+{{< resource 2cd5e78e-a092-d81c-5ae4-d1998065da83 >}}
 
-![YuliyaKlochan-day4storyboard-9.jpg]({{< resource_file 2f8f0821-dea7-ef44-9c40-041a2ed60e57 >}})
+{{< resource 2f8f0821-dea7-ef44-9c40-041a2ed60e57 >}}
 
-![YuliyaKlochan-day4storyboard-10.jpg]({{< resource_file c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}})
+{{< resource c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}}
 
 [_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
 
@@ -246,7 +246,7 @@ To model a snowflake, for example, start by drawing an equilateral triangle. Div
 
 Take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan1.jpg]({{< resource_file 1e45e705-75a1-3a24-7cc5-d10d2834b79e >}})
+{{< resource 1e45e705-75a1-3a24-7cc5-d10d2834b79e >}}
 
 This curve is called in mathematics a Koch Snowflake. It is a fractal because, if you zoom in, you'll get this same pattern (show pattern) again and again.
 
@@ -295,7 +295,7 @@ First, I'd draw an equilateral triangle, divide each side into three equal parts
 
 Then take out the middle, and repeat the process, this time with 1, 2, 3, 4 times 3, which are 12 sides. Eventually, the shape will look something like this:
 
-![work8YulKlochan.jpg]({{< resource_file 46aaa846-b699-f143-f03e-dc11c43fc874 >}})
+{{< resource 46aaa846-b699-f143-f03e-dc11c43fc874 >}}
 
 This curve is called in mathematics a Koch Snowflake. If I repeated the process again and again, and looked anywhere, I would see this same pattern: (Show)
 
@@ -408,4 +408,4 @@ Yuliya's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) | [Next]({{< baseurl >}}/pages/student-projects/david-yams-project) »
+« {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Previous" >}} | {{< resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "Next" >}} »

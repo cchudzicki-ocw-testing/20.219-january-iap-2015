@@ -9,7 +9,7 @@ title: Yuliya Klochan's Reflections
 uid: 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/david-yams-reflections) »
+« {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Previous" >}} | {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "Next" >}} »
 
 [Day 1](#Yklochan_Day_1_Thoughts) | [Day 2](#Day_2_Thoughts_and_Feelings) | [Day 3](#DAY_3) | [Day 4](#DAY_4) | [Day 5](#Day_5_Thoughts) | [Day 6](#Day_6_Vlog) | [Day 7](#Day_7) | [Day 11](#Day_11) | [Final Reflection](#Final_Reflection)
 
@@ -166,4 +166,4 @@ Overall, I had a great experience, great month, and a wonderful filming time. It
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/david-yams-reflections) »
+« {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Previous" >}} | {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "Next" >}} »

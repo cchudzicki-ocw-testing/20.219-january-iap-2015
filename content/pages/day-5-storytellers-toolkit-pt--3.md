@@ -6,7 +6,7 @@ title: 'Day 5: Storyteller''s Toolkit Pt. 3'
 uid: eee7bfe9-1be2-975c-496f-b04747f0e092
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2) | [Next]({{< baseurl >}}/pages/day-6-table-read-and-office-hours) »
+« {{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Previous" >}} | {{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Next" >}} »
 
 Contents
 --------
@@ -95,4 +95,4 @@ Post a second draft of your script on the class blog with #scriptdraft2 by Satur
 *   [Yuliya's day 5 script]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Fractals_Video_Script_Draft_2)
 *   [David's day 5 script]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_5_Script)
 
-« [Previous]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2) | [Next]({{< baseurl >}}/pages/day-6-table-read-and-office-hours) »
+« {{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Previous" >}} | {{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Next" >}} »

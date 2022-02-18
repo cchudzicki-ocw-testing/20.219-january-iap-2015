@@ -6,7 +6,7 @@ title: 'Day 4: Storyteller''s Toolkit Pt. 2'
 uid: 60a6ea96-1026-802d-98a9-351ce3b38557
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) | [Next]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) »
+« {{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Previous" >}} | {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Next" >}} »
 
 Contents
 --------
@@ -29,8 +29,8 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### Chapters
 
-*   [Animation is good when...]({{< baseurl >}}/resources/copy_of_day-4-part-1)
-*   [Examples of animation from Science Out Loud]({{< baseurl >}}/resources/copy2_of_day-4-part-1)
+*   {{< resource_link 98920222-0242-e25c-b674-a753af9d505b "Animation is good when..." >}}
+*   {{< resource_link 43f16dbe-09b7-ebc4-81f3-14cc07640c44 "Examples of animation from Science Out Loud" >}}
 
 ### In-class Media
 
@@ -47,9 +47,9 @@ Guest lecturer Josh Gunn, founder of [Planet Nutshell](http://planetnutshell.com
 
 ### Chapters
 
-*   [Storyboarding]({{< baseurl >}}/resources/copy_of_day-4-part-2)
-*   [Workshop: Storyboarding example]({{< baseurl >}}/resources/copy2_of_day-4-part-2)
-*   [Day 4 assignment and wrap-up]({{< baseurl >}}/resources/copy3_of_day-4-part-2)
+*   {{< resource_link a2060f74-5c35-1971-0382-f506d83213d1 "Storyboarding" >}}
+*   {{< resource_link c31814db-16fd-924c-edb0-34458c0e6eb8 "Workshop: Storyboarding example" >}}
+*   {{< resource_link 3a66c994-cc58-2244-2a81-94f3bbc70666 "Day 4 assignment and wrap-up" >}}
 
 ### In-class Media
 
@@ -94,4 +94,4 @@ Upload the storyboard of your scene to the class blog with #day4storyboard and c
 *   [Yuliya's day 4 storyboard]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Day_4_Storyboard)
 *   [David's day 4 storyboard]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_4_Storyboard)
 
-« [Previous]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) | [Next]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) »
+« {{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Previous" >}} | {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Next" >}} »

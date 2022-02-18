@@ -9,7 +9,7 @@ title: Kenneth Cheah's Reflections
 uid: e9794c3b-05c8-8173-ff70-a55f9946067b
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) »
+« {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Previous" >}} | {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Next" >}} »
 
 [Day 1](#Cheahyhk_s_Thoughts_on_Day_1_) | [Day 2](#Blog_Entry_Day_2__Cheahyhk_) | [Day 3](#CHEAHYHK_DAY_3) | [Day 4](#Day_4_Blog_Post)
 
@@ -69,4 +69,4 @@ Drawing it out however seemed to slowly help me better picture everyone else's i
 
 [_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections) »
+« {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Previous" >}} | {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Next" >}} »

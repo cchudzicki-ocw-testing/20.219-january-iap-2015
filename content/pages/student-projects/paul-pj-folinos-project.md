@@ -9,7 +9,7 @@ title: Paul (PJ) Folino's Project
 uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) | [Next]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) »
+« {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" >}} | {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" >}} »
 
 [_Link to Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
 
@@ -105,9 +105,9 @@ The actual prototype is being thought of / designed. This subdivided "barge" WIL
 {{< anchor "Paul_s_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 -----------------------------------------------------------------
 
-![Folino-day4storyboard-1.jpg]({{< resource_file 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b >}})
+{{< resource 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b >}}
 
-![Folino-day4storyboard-2.jpg]({{< resource_file 7541c31a-d8c8-ba1b-4794-4707325cfbf2 >}})
+{{< resource 7541c31a-d8c8-ba1b-4794-4707325cfbf2 >}}
 
 I am still refining the script.
 
@@ -371,4 +371,4 @@ Paul's video was professionally produced by [Science Out Loud](http://k12videos.
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) | [Next]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project) »
+« {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" >}} | {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" >}} »

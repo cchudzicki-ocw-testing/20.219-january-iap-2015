@@ -9,7 +9,7 @@ title: Joshua Cheong's Project
 uid: 32b67e5b-5210-05d4-f811-9b60fb7ee964
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project) | [Next]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) »
+« {{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Previous" >}} | {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Next" >}} »
 
 [_Link to_ _Joshua Cheong's Page on Tumblr_](http://mit219.tumblr.com/tagged/joshch)
 
@@ -114,7 +114,7 @@ And that's how we find stuff better. Not a just little bit better but a lot bett
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![Joshua-Cheong---day-4-story.jpg]({{< resource_file 9533ce82-7a08-ebf8-6930-7baf309a7813 >}})  
+{{< resource 9533ce82-7a08-ebf8-6930-7baf309a7813 >}}  
 
 [_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
 
@@ -438,4 +438,4 @@ Production Assistant: David Yam
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project) | [Next]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project) »
+« {{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Previous" >}} | {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Next" >}} »

@@ -6,7 +6,7 @@ title: 'Day 1: Identity and Genre'
 uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 ---
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/day-2-audience) »
+« {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" >}} | {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" >}} »
 
 Contents
 --------
@@ -30,11 +30,11 @@ We will discuss who you are, what brought you to this class, what / who inspires
 
 ### Video Chapters
 
-*   [Introduction and rationale for the course]({{< baseurl >}}/resources/copy_of_day-1-part-1)
-*   [Education and entertainment on YouTube]({{< baseurl >}}/resources/copy2_of_day-1-part-1)
-*   [Examples and discussion of educational science videos on YouTube]({{< baseurl >}}/resources/copy3_of_day-1-part-1)
-*   [In-class activity: Educational video analysis]({{< baseurl >}}/resources/copy4_of_day-1-part-1)
-*   [What makes a good YouTube video?]({{< baseurl >}}/resources/copy5_of_day-1-part-1)
+*   {{< resource_link 5330bfbb-c980-6721-f127-66272a365e39 "Introduction and rationale for the course" >}}
+*   {{< resource_link d874213c-2031-675e-60f0-557289470d9b "Education and entertainment on YouTube" >}}
+*   {{< resource_link 230fa477-2a6d-cb26-e4c7-57537b877217 "Examples and discussion of educational science videos on YouTube" >}}
+*   {{< resource_link 242450b0-043d-b7bf-fa19-55be9e8a09c2 "In-class activity: Educational video analysis" >}}
+*   {{< resource_link b3360da6-7444-9e4c-8df0-29fdc9a05b89 "What makes a good YouTube video?" >}}
 
 ### In-class Media: Video Best Practices
 
@@ -433,9 +433,9 @@ Finished
 
 ### Video Chapters
 
-*   [Viral videos and visual storytelling]({{< baseurl >}}/resources/viral-videos-and-visual-storytelling)
-*   [What is a story?]({{< baseurl >}}/resources/what-is-a-story)
-*   [Tips for visual storytelling]({{< baseurl >}}/resources/tips-for-visual-storytelling)
+*   {{< resource_link 6a3e4536-b831-820f-7f94-6aa1bfa4b6b6 "Viral videos and visual storytelling" >}}
+*   {{< resource_link ffd00f8a-87cb-e809-e555-026bde2f21c9 "What is a story?" >}}
+*   {{< resource_link 9dd40601-4e76-5fac-156b-92788ddde331 "Tips for visual storytelling" >}}
 
 **{{< anchor "Part_3:_Wrap-up_and_Assignment" >}}{{< /anchor >}}**Part 3: Wrap-up and Assignment
 ------------------------------------------------------------------------------------------------
@@ -444,8 +444,8 @@ Finished
 
 ### Video Chapters
 
-*   [Explanation of Day 1 assignments]({{< baseurl >}}/resources/copy_of_day-1-part-3)
-*   [Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube]({{< baseurl >}}/resources/copy2_of_day-1-part-3)
+*   {{< resource_link 42d63580-2ac0-59d2-7b9b-72fdc30b5dd6 "Explanation of Day 1 assignments" >}}
+*   {{< resource_link 899f93ea-ecd2-0cb7-6092-45b9f1f54fcb "Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube" >}}
 
 ### In-class Media: Stem Pitch
 
@@ -508,4 +508,4 @@ Respond to sections of the reading through [Annotation Studio](http://www.annota
 *   [Nathan's day 1 pitch]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Day_1_Pitch)
 *   [Yuliya's day 1 pitch]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#G_del_s_Theorem_Video_Pitch) 
 
-« [Previous]({{< baseurl >}}/pages/instructor-insights) | [Next]({{< baseurl >}}/pages/day-2-audience) »
+« {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" >}} | {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" >}} »

@@ -9,7 +9,7 @@ title: Joshua Cheong's Reflections
 uid: 7b1a98fc-328d-4951-fd19-a2109aff7506
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) »
+« {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Previous" >}} | {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Next" >}} »
 
 [Day 1](#Joshch_s_Day_1_Thoughts) | [Day 3](#Day_3_Reflections) | [Day 4](#Vlog_Day_4) | [Day 5](#Day_5_Reflection) | [Day 7](#Joshch_s_Day_7_Thoughts) | [Day 11](#Day_11_Thoughts)
 
@@ -107,4 +107,4 @@ Joshua Cheong
 
 [_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections) »
+« {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Previous" >}} | {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Next" >}} »

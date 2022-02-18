@@ -6,7 +6,7 @@ title: 'Day 7: Table-read and Post-production'
 uid: d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-6-table-read-and-office-hours) | [Next]({{< baseurl >}}/pages/days-8-9-10-project-time) »
+« {{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Previous" >}} | {{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Next" >}} »
 
 Contents
 --------
@@ -20,7 +20,7 @@ Contents
 {{< anchor "Overview" >}}{{< /anchor >}}Overview
 ------------------------------------------------
 
-We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the [Equipment]({{< baseurl >}}/pages/syllabus/equipment) & [Editing]({{< baseurl >}}/pages/syllabus/editing) sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
+We'll finish the rest of the table-reads and then cover the "art" of editing and incorporating music into video. Please note that this will not be a techniques workshop (see the {{< resource_link ad3ae351-22ea-cbd5-88b3-8186e7c06469 "Equipment" >}} & {{< resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Editing" >}} sections for tutorial resources), but rather a best practices-based workshop. We will also cover the resources available for music and navigating [Creative Commons](http://creativecommons.org/).
 
 {{< anchor "Part_1:_Table-read" >}}{{< /anchor >}}Part 1: Table-read
 --------------------------------------------------------------------
@@ -42,19 +42,19 @@ SCRIPT DRAFTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Joshua's Table-read]({{< baseurl >}}/resources/copy_of_day-7-part-1)
+{{< resource_link 8f7cade8-d76e-7b0c-d248-d5df4dd121a2 "Joshua's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Joshua's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_joshua)
+{{< resource_link 889e423b-42ea-fc22-53c1-eb0b9733838f "Joshua's Script (DOC)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Kenneth's Table-read]({{< baseurl >}}/resources/copy2_of_day-7-part-1)
+{{< resource_link c7eb88c0-dc42-ecb1-c442-cd83d1212afe "Kenneth's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Kenneth's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_kenneth)
+{{< resource_link 6c745fe6-fb54-da07-614c-3dffffac89c7 "Kenneth's Script (DOC)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -68,11 +68,11 @@ SCRIPT DRAFTS
 
 ### Video Chapters
 
-*   [Introduction to post-production: Killing your darlings]({{< baseurl >}}/resources/copy5_of_day-7-part-2)
-*   [Editing: Cuts and Transitions]({{< baseurl >}}/resources/copy_of_day-7-part-2)
-*   [Music]({{< baseurl >}}/resources/copy2_of_day-7-part-2)
-*   [Creative Commons (1:57:10)]({{< baseurl >}}/resources/copy3_of_day-7-part-2)
-*   [Questions and wrap up (2:01:50)]({{< baseurl >}}/resources/copy4_of_day-7-part-2)
+*   {{< resource_link 9ce29cff-80b6-1e2e-d308-b3f8b156d861 "Introduction to post-production: Killing your darlings" >}}
+*   {{< resource_link 20a09f9a-2531-eafe-0ef9-8f063284c13b "Editing: Cuts and Transitions" >}}
+*   {{< resource_link 8efd191a-d6b0-e37c-2f3e-d18d67e5b086 "Music" >}}
+*   {{< resource_link 39302e89-13b3-7f11-2b47-a9456d86f087 "Creative Commons (1:57:10)" >}}
+*   {{< resource_link 3a209918-e978-da9c-cebe-f89db07ebab1 "Questions and wrap up (2:01:50)" >}}
 
 ### In-class Media: Editing Case Studies
 
@@ -107,7 +107,7 @@ Finish editing your scripts and post to the Tumblr with day7script and your Kerb
 
 ### Survey
 
-Fill out the [Midpoint Survey (PDF)]({{< baseurl >}}/resources/mit20_219iap15_midsurvy) sometime before the weekend!
+Fill out the {{< resource_link 0ca33476-042a-8cc2-e31d-cdf2b7e2848d "Midpoint Survey (PDF)" >}} sometime before the weekend!
 
 {{< anchor "Instructor_and_Student_Work" >}}{{< /anchor >}}Instructor and Student Work
 --------------------------------------------------------------------------------------
@@ -129,4 +129,4 @@ Fill out the [Midpoint Survey (PDF)]({{< baseurl >}}/resources/mit20_219iap15_mi
 *   [Yuliya's day 7 script]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#DAY_7_Script__Fractals__)
 *   [David's day 7 script]({{< baseurl >}}/pages/student-projects/david-yams-project#Script_Draft_3)
 
-« [Previous]({{< baseurl >}}/pages/day-6-table-read-and-office-hours) | [Next]({{< baseurl >}}/pages/days-8-9-10-project-time) »
+« {{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Previous" >}} | {{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Next" >}} »

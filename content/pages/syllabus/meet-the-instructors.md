@@ -9,7 +9,7 @@ title: Meet the Instructors
 uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 ---
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/calendar) »
+« {{< resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" >}} | {{< resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" >}} »
 
 INSTRUCTORS
 -----------
@@ -20,7 +20,7 @@ Elizabeth Choe
 {{< tableopen >}}
   {{< tropen >}}
 {{< tdopen >}}
-![EChoe.jpg]({{< resource_file a0430245-007f-3234-3f08-0b4ff6edd325 >}}) 
+{{< resource a0430245-007f-3234-3f08-0b4ff6edd325 >}} 
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -42,7 +42,7 @@ Jaime Goldstein
 
   {{< tropen >}}
 {{< tdopen >}}
-![JGoldstein.jpg]({{< resource_file bae3a944-1a43-8fba-34df-8b4d9a3cd482 >}})
+{{< resource bae3a944-1a43-8fba-34df-8b4d9a3cd482 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -67,7 +67,7 @@ Ceri Riley
 
   {{< tropen >}}
 {{< tdopen >}}
-![CeriR.jpg]({{< resource_file ea564a4f-b2da-028f-70b5-d78505447e25 >}})
+{{< resource ea564a4f-b2da-028f-70b5-d78505447e25 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -92,7 +92,7 @@ Chris Boebel
 
   {{< tropen >}}
 {{< tdopen >}}
-![CBoebel.jpg]({{< resource_file e6bf67cb-4aeb-9315-f9b6-dc4deb931b1d >}})
+{{< resource e6bf67cb-4aeb-9315-f9b6-dc4deb931b1d >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -114,7 +114,7 @@ George Zaidan
 
   {{< tropen >}}
 {{< tdopen >}}
-![GZaidan.jpg]({{< resource_file e134854e-4e26-2c34-8414-f090f94b9271 >}})
+{{< resource e134854e-4e26-2c34-8414-f090f94b9271 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -136,7 +136,7 @@ Joshua Gunn
 
   {{< tropen >}}
 {{< tdopen >}}
-![JoshGunn.jpg]({{< resource_file 9f7b1bf0-992d-f509-2490-44d54e29fec1 >}})
+{{< resource 9f7b1bf0-992d-f509-2490-44d54e29fec1 >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -158,7 +158,7 @@ Natalie Kuldell
 
   {{< tropen >}}
 {{< tdopen >}}
-![NKundell.jpg]({{< resource_file 14236a86-6741-6a8e-a7dd-ba7dc69f61ef >}})
+{{< resource 14236a86-6741-6a8e-a7dd-ba7dc69f61ef >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -172,4 +172,4 @@ Dr. Natalie Kuldell is the director of a web-based resource called [BioBuilder](
 
 {{< tableclose >}}
 
-« [Previous]({{< baseurl >}}/pages/syllabus) | [Next]({{< baseurl >}}/pages/syllabus/calendar) »
+« {{< resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" >}} | {{< resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" >}} »

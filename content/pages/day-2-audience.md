@@ -6,7 +6,7 @@ title: 'Day 2: Audience'
 uid: 3da88bd7-fc04-b288-6227-11604ae6a159
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-1-identity-and-genre) | [Next]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) »
+« {{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Previous" >}} | {{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Next" >}} »
 
 Contents
 --------
@@ -30,9 +30,9 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Welcome the middle school consultants]({{< baseurl >}}/resources/copy_of_day-2-part-1)
-*   [The consultations begin]({{< baseurl >}}/resources/copy2_of_day-2-part-1)
-*   [The consultations end; recap of favorite ideas]({{< baseurl >}}/resources/copy3_of_day-2-part-1)
+*   {{< resource_link f0056251-70a3-d5da-e28b-846429aca584 "Welcome the middle school consultants" >}}
+*   {{< resource_link ffaab1d9-dc33-97b1-1964-a662fd345f03 "The consultations begin" >}}
+*   {{< resource_link 1780a0fb-358c-87eb-0c0f-ff45c67ed1bc "The consultations end; recap of favorite ideas" >}}
 
 **{{< anchor "Part_2:_BioBuilder.org" >}}{{< /anchor >}}**Part 2: BioBuilder.org
 --------------------------------------------------------------------------------
@@ -41,8 +41,8 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Introduction to BioBuilder.org]({{< baseurl >}}/resources/copy_of_day-2-part-2)
-*   [The first BioBuilder animation]({{< baseurl >}}/resources/copy2_of_day-2-part-2)
+*   {{< resource_link 48cfbc21-b775-bf97-95db-c4d1f35e1929 "Introduction to BioBuilder.org" >}}
+*   {{< resource_link 8e4b9639-1193-5c29-2076-1b945fb975a0 "The first BioBuilder animation" >}}
 
 ### In-class Media
 
@@ -57,10 +57,10 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### Video Chapters
 
-*   [Recap of the middle school consultations]({{< baseurl >}}/resources/copy_of_day-2-part-3)
-*   [Science Out Loud's first biology video]({{< baseurl >}}/resources/copy2_of_day-2-part-3)
-*   [STEM nugget workshop: students and instructors brainstorm]({{< baseurl >}}/resources/copy3_of_day-2-part-3)
-*   [Day 2 assignment and wrap-up]({{< baseurl >}}/resources/copy4_of_day-2-part-3)
+*   {{< resource_link 3f54f93c-dce7-3022-4022-76ee46ed08b7 "Recap of the middle school consultations" >}}
+*   {{< resource_link 3cd46813-4be8-ba18-8c07-4a9db9bfc37f "Science Out Loud's first biology video" >}}
+*   {{< resource_link 82aa6d99-03e2-9c9b-b00e-cb7260f1d17c "STEM nugget workshop: students and instructors brainstorm" >}}
+*   {{< resource_link a32ac2b3-b9b7-5dd9-6e0a-9875fea4458f "Day 2 assignment and wrap-up" >}}
 
 ### In-class Media
 
@@ -68,7 +68,7 @@ Today's class begins with a visit with students from Cummings Middle School. The
 
 ### In-class Document
 
-*   [Elizabeth's STEM Nugget Brainstorm: Snot (PDF)]({{< baseurl >}}/resources/mit20_219iap15_eliz_scrpt)
+*   {{< resource_link 3ada2ee8-0d25-0e3f-1cba-3fb4f00205e1 "Elizabeth's STEM Nugget Brainstorm: Snot (PDF)" >}}
 
 **{{< anchor "Assignments" >}}{{< /anchor >}}**Assignments
 ----------------------------------------------------------
@@ -105,4 +105,4 @@ Write a 200-300 word script for an episode based around your STEM nugget. (Just 
 *   [Yuliya's day 2 script]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Math_Woman_Saves_the_World)
 *   [David's day 2 script]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_2_Script)
 
-« [Previous]({{< baseurl >}}/pages/day-1-identity-and-genre) | [Next]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1) »
+« {{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Previous" >}} | {{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Next" >}} »

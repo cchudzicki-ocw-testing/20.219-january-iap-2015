@@ -9,7 +9,7 @@ title: Andrea Desrosiers' Project
 uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) | [Next]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) »
+« {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" >}} | {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" >}} »
 
 [_Link to_ _Andrea Desrosiers' page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
 
@@ -45,7 +45,7 @@ Cue music that is catchy and upbeat.
 
 Zoom in on drawing of a young girl with braces on, looking a bit awkward.
 
-![20.219projects.jpg]({{< resource_file 182713a0-4805-d0b5-37a7-3837f06c2b75 >}})
+{{< resource 182713a0-4805-d0b5-37a7-3837f06c2b75 >}}
 
 Cut to Andrea with same expression on face.
 
@@ -160,13 +160,13 @@ Engineers from MIT are taking advantage of the properties of osteoblasts to come
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![AndreaDesrosiers-day4storyboard-1.jpg]({{< resource_file 54725ae5-a468-ae43-78f2-f32beb0dc68f >}})
+{{< resource 54725ae5-a468-ae43-78f2-f32beb0dc68f >}}
 
- ![AndreaDesrosiers-day4storyboard-2.jpg]({{< resource_file 6ec8e744-c120-61b5-c3cf-03197da8ddfc >}})
+ {{< resource 6ec8e744-c120-61b5-c3cf-03197da8ddfc >}}
 
-![AndreaDesrosiers-day4storyboard-3.jpg]({{< resource_file 150fd516-a18e-0e65-4cf6-3a1279e1b646 >}})
+{{< resource 150fd516-a18e-0e65-4cf6-3a1279e1b646 >}}
 
-![AndreaDesrosiers-day4storyboard-4.jpg]({{< resource_file 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}})
+{{< resource 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}}
 
 [_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
 
@@ -457,4 +457,4 @@ Andrea's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« [Previous]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) | [Next]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) »
+« {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" >}} | {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" >}} »

@@ -6,7 +6,7 @@ title: 'Day 6: Table-read and Office Hours'
 uid: 7c38a44e-5ebb-8403-cf21-c2adc0137e4b
 ---
 
-« [Previous]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) | [Next]({{< baseurl >}}/pages/day-7-table-read-and-post-production) »
+« {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Previous" >}} | {{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Next" >}} »
 
 Contents
 --------
@@ -41,25 +41,25 @@ SCRIPT DRAFTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Yuliya's Table-read]({{< baseurl >}}/resources/copy_of_day-6)
+{{< resource_link 2188658f-8ffd-7e6e-c3e1-2acdf5b6b6f0 "Yuliya's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Yuliya's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_fractals)
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-[David's Table-read]({{< baseurl >}}/resources/copy2_of_day-6)
-{{< tdclose >}}
-{{< tdopen >}}
-[David's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_cold)
+{{< resource_link 3c915481-a58d-47dd-1c87-e8c260dde10a "Yuliya's Script (DOC)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Nathan's Table-read]({{< baseurl >}}/resources/copy3_of_day-6)
+{{< resource_link 120a2e3b-f107-9c42-ea23-2332a3f381e3 "David's Table-read" >}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{< resource_link fa6a637a-f9a2-4439-c26e-c60782a671fc "David's Script (DOC)" >}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{< resource_link 08ae8cba-e3c1-9c48-7d91-afd741afe0c9 "Nathan's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 Nathan's script is not available
@@ -68,7 +68,7 @@ Nathan's script is not available
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Andrea's Table-read]({{< baseurl >}}/resources/copy4_of_day-6)
+{{< resource_link a1782b8a-ca6d-be8a-11bc-f85b4c96aeff "Andrea's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 [Andrea's Script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Script)
@@ -77,10 +77,10 @@ Nathan's script is not available
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[PJ's Table-read]({{< baseurl >}}/resources/copy5_of_day-6)
+{{< resource_link 28dcf6c5-dda0-0f85-ed3f-fd76fdcad2bd "PJ's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[PJ's Script (DOC)]({{< baseurl >}}/resources/mit20_219iap15_folino)
+{{< resource_link 7f91a6ca-759e-3e98-f938-ae25c1c5ef91 "PJ's Script (DOC)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,4 +107,4 @@ Upload a video, written blog post, pictures, etc. reflecting on insights gained 
     
 *   [David's day 6 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#_Day_6_Reflections)
 
-« [Previous]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3) | [Next]({{< baseurl >}}/pages/day-7-table-read-and-post-production) »
+« {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Previous" >}} | {{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Next" >}} »

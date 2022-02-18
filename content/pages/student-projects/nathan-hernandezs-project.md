@@ -9,7 +9,7 @@ title: Nathan Hernandez's Project
 uid: 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) | [Next]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) »
+« {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" >}} | {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" >}} »
 
 [_Link to_ _Nathan Hernandez's Page on Tumblr_](http://mit219.tumblr.com/tagged/hiji)
 
@@ -97,7 +97,7 @@ Very rough
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![Nathan-day4storyboard-1.jpg]({{< resource_file ca053e7d-2a25-b1c3-5da7-d32369a2ddda >}})
+{{< resource ca053e7d-2a25-b1c3-5da7-d32369a2ddda >}}
 
 ### Script for the Scene
 
@@ -142,4 +142,4 @@ Production Assistant: Andrea Desrosiers
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project) | [Next]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) »
+« {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Previous" >}} | {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Next" >}} »

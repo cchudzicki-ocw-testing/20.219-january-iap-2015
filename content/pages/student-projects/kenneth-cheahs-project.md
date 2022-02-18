@@ -9,7 +9,7 @@ title: Kenneth Cheah's Project
 uid: a8052e86-91ed-d84e-9df2-c28f872ebec6
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects) | [Next]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) »
+« {{< resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Previous" >}} | {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Next" >}} »
 
 [_Link to_ _Kenneth Cheah's Page on Tumblr_](http://mit219.tumblr.com/tagged/cheahyhk)
 
@@ -86,7 +86,7 @@ Brief summary and trailer or video!
 {{< anchor "Day_4_Story_Board" >}}{{< /anchor >}}Day 4 Story Board
 ------------------------------------------------------------------
 
-![20.219inline1.jpg]({{< resource_file 21c75ec9-8e87-be43-eb71-a1cf0bad8d2b >}})![20.219inline2.jpg]({{< resource_file cbe2a250-57a8-f12c-8ba3-929eaca755d7 >}})
+{{< resource 21c75ec9-8e87-be43-eb71-a1cf0bad8d2b >}}{{< resource cbe2a250-57a8-f12c-8ba3-929eaca755d7 >}}
 
 [_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
 
@@ -170,4 +170,4 @@ Production Assistant: Yuliya and PJ
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-projects) | [Next]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project) »
+« {{< resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Previous" >}} | {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Next" >}} »

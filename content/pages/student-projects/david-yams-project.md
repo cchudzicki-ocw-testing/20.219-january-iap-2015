@@ -9,7 +9,7 @@ title: David Yam's Project
 uid: a70c0b56-5698-6d46-0ee2-e877495297b2
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) | [Next]({{< baseurl >}}/pages/student-reflections) »
+« {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Previous" >}} | {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Next" >}} »
 
 [_Link to_ _David Yam Page on Tumblr_](http://mit219.tumblr.com/tagged/davidyam)
 
@@ -67,9 +67,9 @@ This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
 
-![David-day4storyboard-1.jpg]({{< resource_file 86d973e5-b71d-75a7-feea-ff97bb2b03e0 >}})  
+{{< resource 86d973e5-b71d-75a7-feea-ff97bb2b03e0 >}}  
 
-![David-day4storyboard-2.jpg]({{< resource_file cf66a17e-35e4-c122-dff4-d39286042c31 >}})
+{{< resource cf66a17e-35e4-c122-dff4-d39286042c31 >}}
 
 Script is written inside per picture.
 
@@ -194,4 +194,4 @@ Production Assistant: Joshua Cheong
 
 [_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project) | [Next]({{< baseurl >}}/pages/student-reflections) »
+« {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Previous" >}} | {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Next" >}} »

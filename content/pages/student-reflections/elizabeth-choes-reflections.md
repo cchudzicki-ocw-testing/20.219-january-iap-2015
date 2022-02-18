@@ -9,7 +9,7 @@ title: Elizabeth Choe's Reflections
 uid: b923e518-c6b9-9f57-0dd9-04b61083f145
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections) »
+« {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" >}} | {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" >}} »
 
 [Day 1](#Echoe_s_Day_1_Thoughts) | [Day 2](#Echoe_s_Day_2_Thoughts) | [Day 3](#Echoe_s_Day_3_Thoughts) | [Day 4](#Echoe_s_Day_4_Thoughts) | [Day 5](#Echoe_s_Day_5_Thoughts) | [Day 6](#Echoe_s_Day_6_Thoughts) | [Day 7](#Echoe_s_Day_7_Thoughts) | [Day 9](#Echoe_s_Day_9_Thoughts) | [Day 11](#Echoe_s_Day_11_Thoughts)
 
@@ -160,4 +160,4 @@ This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOdu
 
 [_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Instructor_and_Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections) »
+« {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" >}} | {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" >}} »

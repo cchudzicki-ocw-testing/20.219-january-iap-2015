@@ -9,7 +9,7 @@ title: Ceri Riley's Reflections
 uid: 1d988e03-5e65-811f-e6d8-e82355f3c4a7
 ---
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) »
+« {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Previous" >}} | {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Next" >}} »
 
 [Day 1](#DAY_1-Ceriley) | [Day 2](#Reflection_Day_2) | [Day 3](#Reflection_Day_3) | [Day 4](#Reflection_Day_4) | [Day 5](#Ceriley_s_Day_5_Reflections) | [Day 7](#Ceriley_s_Day_7_Reflections) | [Day 11](#Ceriley_s_Day_11_Reflections)
 
@@ -120,4 +120,4 @@ Soapbox aside; let me know if you need any animation help (or anything else). It
 
 [_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
 
-« [Previous]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections) | [Next]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections) »
+« {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Previous" >}} | {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Next" >}} »
