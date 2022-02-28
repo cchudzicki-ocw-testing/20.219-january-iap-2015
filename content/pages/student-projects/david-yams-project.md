@@ -53,7 +53,7 @@ Whilst Iceman has honed the ability to do just about everything in winter wearin
 
 {{< anchor "1" >}}{{< /anchor >}}\[1\] Read more: [Why are Some People Colder than Others?](http://www.mnn.com/health/fitness-well-being/stories/why-are-some-people-colder-than-others#ixzz3O6Q5qNoe)
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_3_Pitch" >}}{{< /anchor >}}Day 3 Pitch
 ------------------------------------------------------
@@ -62,7 +62,7 @@ Whilst Iceman has honed the ability to do just about everything in winter wearin
 
 This video is courtesy of [David Yam](https://www.youtube.com/channel/UCgSZYDkQ8_cF8Nwb-dNVvxA) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
@@ -101,7 +101,7 @@ To generate more heat within our bodies, we need to burn more sugars with our me
 
 (Sorry for the crappy drawings. I'm really bad at drawing.)
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_5_Script" >}}{{< /anchor >}}Day 5 Script (Draft 2)
 ------------------------------------------------------------------
@@ -126,7 +126,7 @@ After understanding all this knowledge about withstanding the cold… perhaps th
 
 And if the next Ice Age were to come, maybe they'd be the only ones around.
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Script_Draft_3" >}}{{< /anchor >}}Day 6 Script: How do I Survive the Cold? (Draft 3)
 ------------------------------------------------------------------------------------------------
@@ -192,6 +192,6 @@ Production Assistant: Joshua Cheong
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108828543461/how-can-i-survive-the-cold-creative-commons-cc)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" >}}
 
 « {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Previous" >}} | {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Next" >}} »

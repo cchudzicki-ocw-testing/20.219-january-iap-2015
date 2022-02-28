@@ -481,31 +481,31 @@ Respond to sections of the reading through [Annotation Studio](http://www.annota
 
 ### Day 1 Blogs
 
-*   [Elizabeth's day 1 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_1_Thoughts)  
+*   {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 1 blog" "#Echoe_s_Day_1_Thoughts" >}}  
     
-*   [Ceri's day 1 blog]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections#DAY_1-Ceriley)  
+*   {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 1 blog" "#DAY_1-Ceriley" >}}  
     
-*   [Kenneth's day 1 blog]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections#Cheahyhk_s_Thoughts_on_Day_1_)  
+*   {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 1 blog" "#Cheahyhk_s_Thoughts_on_Day_1_" >}}  
     
-*   [Joshua's day 1 blog]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections#Joshch_s_Day_1_Thoughts)  
+*   {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 1 blog" "#Joshch_s_Day_1_Thoughts" >}}  
     
-*   [Andrea's day 1 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_1_Andrea_s_Struggles)  
+*   {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 1 blog" "#Day_1_Andrea_s_Struggles" >}}  
     
-*   [PJ's day 1 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_1_Thoughts)  
+*   {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 1 blog" "#Pjfolino_s_Day_1_Thoughts" >}}  
     
-*   [Nathan's day 1 blog]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections#Hiji_s_Day_1_Thoughts)  
+*   {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 1 blog" "#Hiji_s_Day_1_Thoughts" >}}  
     
-*   [Yuliya's day 1 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#Yklochan_Day_1_Thoughts)  
+*   {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 1 blog" "#Yklochan_Day_1_Thoughts" >}}  
     
-*   [David's day 1 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#First_Day)
+*   {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 1 blog" "#First_Day" >}}
 
 ### Day 1 Pitches
 
-*   [Kenneth's day 1 pitch]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Day_1_Pitch)
-*   [Joshua's day 1 pitch]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Day_1_Pitch)
-*   [Andrea's day 1 pitch]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Day_1_Pitch)
-*   [PJ's day 1 pitch]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Day_1_Pitch)
-*   [Nathan's day 1 pitch]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Day_1_Pitch)
-*   [Yuliya's day 1 pitch]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#G_del_s_Theorem_Video_Pitch) 
+*   {{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 1 pitch" "#Day_1_Pitch" >}}
+*   {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 1 pitch" "#Day_1_Pitch" >}}
+*   {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 1 pitch" "#Day_1_Pitch" >}}
+*   {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 1 pitch" "#Day_1_Pitch" >}}
+*   {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 1 pitch" "#Day_1_Pitch" >}}
+*   {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 1 pitch" "#G_del_s_Theorem_Video_Pitch" >}} 
 
 « {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" >}} | {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" >}} »

@@ -54,8 +54,8 @@ Post your shot list to the Tumblr by Day 8 with #day8shotlist. Cuts of your fina
 
 ### Shot Lists
 
-*   [Andrea's day 8 shot list]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Shot_List-prelim)
-*   [PJ's day 8 shot list]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Pjfolino_s_Day_8_Shot_List)
-*   [Yuliya's day 8 shot list]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Fractals__Shot_List)
+*   {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 8 shot list" "#Ortho_Shot_List-prelim" >}}
+*   {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 8 shot list" "#Pjfolino_s_Day_8_Shot_List" >}}
+*   {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 8 shot list" "#Fractals__Shot_List" >}}
 
 « {{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Previous" >}} | {{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Next" >}} »

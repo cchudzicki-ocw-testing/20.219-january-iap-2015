@@ -114,19 +114,19 @@ Fill out the {{< resource_link 0ca33476-042a-8cc2-e31d-cdf2b7e2848d "Midpoint Su
 
 ### Daily Blogs / Vlogs
 
-*   [Elizabeth's day 7 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_7_Thoughts)
-*   [Ceri's day 7 blog]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections#Ceriley_s_Day_7_Reflections)
-*   [Joshua's day 7 blog]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections#Joshch_s_Day_7_Thoughts)
-*   [Andrea's day 7 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_7_Vlog)
-*   [PJ's day 7 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_7_Thoughts)
-*   [Yuliya's day 7 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#Day_7)
+*   {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 7 blog" "#Echoe_s_Day_7_Thoughts" >}}
+*   {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 7 blog" "#Ceriley_s_Day_7_Reflections" >}}
+*   {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 7 blog" "#Joshch_s_Day_7_Thoughts" >}}
+*   {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 7 blog" "#Day_7_Vlog" >}}
+*   {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 7 blog" "#Pjfolino_s_Day_7_Thoughts" >}}
+*   {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 7 blog" "#Day_7" >}}
 
 ### Day 7 Scripts
 
-*   [Joshua's day 7 script]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Script:_Final_Iteration)
-*   [Andrea's day 7 script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Script)
-*   [PJ's day 7 script]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Pjfolino_s_Script)
-*   [Yuliya's day 7 script]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#DAY_7_Script__Fractals__)
-*   [David's day 7 script]({{< baseurl >}}/pages/student-projects/david-yams-project#Script_Draft_3)
+*   {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 7 script" "#Script:_Final_Iteration" >}}
+*   {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 7 script" "#Ortho_Script" >}}
+*   {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 7 script" "#Pjfolino_s_Script" >}}
+*   {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 7 script" "#DAY_7_Script__Fractals__" >}}
+*   {{< resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "David's day 7 script" "#Script_Draft_3" >}}
 
 « {{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Previous" >}} | {{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Next" >}} »

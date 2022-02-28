@@ -71,7 +71,7 @@ Nathan's script is not available
 {{< resource_link a1782b8a-ca6d-be8a-11bc-f85b4c96aeff "Andrea's Table-read" >}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Andrea's Script]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Ortho_Script)
+{{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's Script" "#Ortho_Script" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,12 +99,12 @@ Upload a video, written blog post, pictures, etc. reflecting on insights gained 
 
 ### Daily Blogs / Vlogs
 
-*   [Elizabeth's day 6 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_6_Thoughts)
-*   [Andrea's day 6 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_6_Vlog)
-*   [PJ's day 6 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_6_Thoughts)
-*   [Nathan's day 6 blog]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections#Day_6_Reflection)
-*   [Yuliya's day 6 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#Day_6_Vlog)  
+*   {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 6 blog" "#Echoe_s_Day_6_Thoughts" >}}
+*   {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 6 blog" "#Day_6_Vlog" >}}
+*   {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 6 blog" "#Pjfolino_s_Day_6_Thoughts" >}}
+*   {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 6 blog" "#Day_6_Reflection" >}}
+*   {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 6 blog" "#Day_6_Vlog" >}}  
     
-*   [David's day 6 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#_Day_6_Reflections)
+*   {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 6 blog" "#_Day_6_Reflections" >}}
 
 « {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Previous" >}} | {{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Next" >}} »

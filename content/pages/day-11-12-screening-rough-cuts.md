@@ -61,7 +61,7 @@ Comments
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Kenneth's rough cut]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Rough_Cut)
+{{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's rough cut" "#Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link 35be9454-9805-7d0c-5922-872f867a36e6 "Comments on Kenneth's rough cut (PDF)" >}}
@@ -70,7 +70,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Joshua's rough cut]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Rough_Cut)
+{{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's rough cut" "#Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link cef98b83-aedd-875b-dbb8-241bf6e9abe6 "Comments on Joshua's rough cut (PDF)" >}}[  
@@ -80,7 +80,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Andrea's rough cut]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Rough_Cut)
+{{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's rough cut" "#Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link bce8f892-6c1a-f8f2-4fb8-072ee79e862d "Comments on Andrea's rough cut (PDF)" >}}
@@ -89,7 +89,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[PJ's rough cut]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Rough_Cut)
+{{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's rough cut" "#Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link 7e32aa41-15bc-210a-9ae8-2862f0acc6c0 "Comments on PJ's rough cut (PDF)" >}}
@@ -98,7 +98,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Nathan's rough cut]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Final_Project)
+{{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's rough cut" "#Final_Project" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link 54f25f5e-7016-103a-038c-790f2f485bb2 "Comments on Nathan's rough cut (PDF)" >}}
@@ -107,7 +107,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Yuliya's rough cut]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Fractals__Rough_Cut)
+{{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's rough cut" "#Fractals__Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link d258a936-561f-f118-5517-476f739b6230 "Comments on Yuliya's rough cut (PDF)" >}}
@@ -116,7 +116,7 @@ Comments
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[David's rough cut]({{< baseurl >}}/pages/student-projects/david-yams-project#Rough_Cut)
+{{< resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "David's rough cut" "#Rough_Cut" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 {{< resource_link a0fe4118-3cfd-4296-1f69-8b43199138f3 "Comments on David's rough cut (PDF)" >}}

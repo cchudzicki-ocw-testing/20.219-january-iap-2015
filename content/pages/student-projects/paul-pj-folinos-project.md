@@ -40,7 +40,7 @@ I have never been able to poach an egg well. Come to find out, there is a lot of
 
 Food for thought: Did you know there are statistical correlations between how you cook your eggs and how happy you are?
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script
 --------------------------------------------------------
@@ -89,7 +89,7 @@ III. Conclusion
 
 1\. In conclusion, subdivision is used on vessels for many reasons, one of which is to ensure the ship doesn't sink! As a naval architect, you will be ensuring that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that your loved ones return safely from the sea!
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Subdivision_Pitch" >}}{{< /anchor >}}Day 3 Trailer: Subdivision Pitch
 ---------------------------------------------------------------------------------
@@ -100,7 +100,7 @@ This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQM
 
 The actual prototype is being thought of / designed. This subdivided "barge" WILL sink.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Paul_s_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 -----------------------------------------------------------------
@@ -111,7 +111,7 @@ The actual prototype is being thought of / designed. This subdivided "barge" WIL
 
 I am still refining the script.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Pjfolino_s_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script
 ---------------------------------------------------------------------
@@ -156,7 +156,7 @@ _(Animation on top of still picture of boxes)_ A basic way to describe it is lik
 
 _(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)[]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" >}}{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Pjfolino_s_Script_Redo" >}}{{< /anchor >}}Day 6 Script
 ------------------------------------------------------------------
@@ -332,7 +332,7 @@ To Shoot:
 2.  Video recording of POSSE simulation
 3.  See Part 1
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" >}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
@@ -341,7 +341,7 @@ To Shoot:
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" >}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 ----------------------------------------------------------
@@ -360,7 +360,7 @@ Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108847363726/pjfolino-subdivision-in-ships-creative)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" >}}
 
 {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 ----------------------------------------------------------------

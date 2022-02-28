@@ -36,7 +36,7 @@ Contents
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
 ----------------------------------------------------------------------------------------------------
@@ -109,7 +109,7 @@ Cut to Andrea walking around.
 
 Andrea: (need closing statements…)
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 - Andrea's Trailer Take 2  
 
@@ -168,7 +168,7 @@ Engineers from MIT are taking advantage of the properties of osteoblasts to come
 
 {{< resource 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}}
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Ortho_Script" >}}{{< /anchor >}}Script: Final Draft
 ---------------------------------------------------------------
@@ -406,7 +406,7 @@ Your jaw isn't the only place where these osteoclasts and osteoblasts alter your
 
 Where braces use bone remodeling to make teeth straighter for mostly cosmetic reasons, dental implants replace teeth that are damaged or missing - to restore chewing function.
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)
+{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" >}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
@@ -415,7 +415,7 @@ Where braces use bone remodeling to make teeth straighter for mostly cosmetic re
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" >}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 ----------------------------------------------------------
@@ -446,7 +446,7 @@ Production Assistants: Nathan Hernandez, Fred Yarm
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" >}}
 
 {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 ----------------------------------------------------------------

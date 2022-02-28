@@ -74,24 +74,24 @@ Upload the storyboard of your scene to the class blog with #day4storyboard and c
 
 ### Day 4 Blogs / Vlogs
 
-*   [Elizabeth's day 4 blog]({{< baseurl >}}/pages/student-reflections/elizabeth-choes-reflections#Echoe_s_Day_4_Thoughts)
-*   [Ceri's day 4 blog]({{< baseurl >}}/pages/student-reflections/ceri-rileys-reflections#Reflection_Day_4)
-*   [Kenneth's day 4 blog]({{< baseurl >}}/pages/student-reflections/kenneth-cheahs-reflections#Day_4_Blog_Post)
-*   [Joshua's day 4 blog]({{< baseurl >}}/pages/student-reflections/joshua-cheongs-reflections#Vlog_Day_4)
-*   [Andrea's day 4 blog]({{< baseurl >}}/pages/student-reflections/andrea-desrosierss-reflections#Day_4)
-*   [PJ's day 4 blog]({{< baseurl >}}/pages/student-reflections/paul-pj-folinos-reflections#Pjfolino_s_Day_4_Thoughts)
-*   [Nathan's day 4 blog]({{< baseurl >}}/pages/student-reflections/nathan-hernandezs-reflections#Day_4_Reflection)
-*   [Yuliya's day 4 blog]({{< baseurl >}}/pages/student-reflections/yuliya-klochans-reflections#DAY_4)
-*   [David's day 4 blog]({{< baseurl >}}/pages/student-reflections/david-yams-reflections#Day_4)
+*   {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 4 blog" "#Echoe_s_Day_4_Thoughts" >}}
+*   {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 4 blog" "#Reflection_Day_4" >}}
+*   {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 4 blog" "#Day_4_Blog_Post" >}}
+*   {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 4 blog" "#Vlog_Day_4" >}}
+*   {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 4 blog" "#Day_4" >}}
+*   {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 4 blog" "#Pjfolino_s_Day_4_Thoughts" >}}
+*   {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 4 blog" "#Day_4_Reflection" >}}
+*   {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 4 blog" "#DAY_4" >}}
+*   {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 4 blog" "#Day_4" >}}
 
 ### Day 4 Storyboard
 
-*   [Kenneth's day 4 storyboard]({{< baseurl >}}/pages/student-projects/kenneth-cheahs-project#Day_4_Story_Board)
-*   [Joshua's day 4 storyboard]({{< baseurl >}}/pages/student-projects/joshua-cheongs-project#Day_4_Storyboard)
-*   [Andrea's day 4 storyboard]({{< baseurl >}}/pages/student-projects/andrea-desrosierss-project#Day_4_Storyboard)
-*   [PJ's day 4 storyboard]({{< baseurl >}}/pages/student-projects/paul-pj-folinos-project#Paul_s_Storyboard)
-*   [Nathan's day 4 storyboard]({{< baseurl >}}/pages/student-projects/nathan-hernandezs-project#Day_4_Storyboard)
-*   [Yuliya's day 4 storyboard]({{< baseurl >}}/pages/student-projects/yuliya-klochans-project#Day_4_Storyboard)
-*   [David's day 4 storyboard]({{< baseurl >}}/pages/student-projects/david-yams-project#Day_4_Storyboard)
+*   {{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 4 storyboard" "#Day_4_Story_Board" >}}
+*   {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 4 storyboard" "#Day_4_Storyboard" >}}
+*   {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 4 storyboard" "#Day_4_Storyboard" >}}
+*   {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 4 storyboard" "#Paul_s_Storyboard" >}}
+*   {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 4 storyboard" "#Day_4_Storyboard" >}}
+*   {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 4 storyboard" "#Day_4_Storyboard" >}}
+*   {{< resource_link a70c0b56-5698-6d46-0ee2-e877495297b2 "David's day 4 storyboard" "#Day_4_Storyboard" >}}
 
 « {{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Previous" >}} | {{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Next" >}} »

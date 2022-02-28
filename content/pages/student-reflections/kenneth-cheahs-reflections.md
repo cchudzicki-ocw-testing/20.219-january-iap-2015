@@ -26,7 +26,7 @@ Coming into the class, although yes, I was a little disappointed in learning tha
 
 As a kid, I **Loved**, and absolutely **Loved** watching a particular TV series produced in America and "hosted" by kids around my age, running around the house conduction experiments and craft projects that would be easily replicable in my own home (except those involving snow. I guess I can do them now…) It just felt so much easier to connect and learn when things were brought to such a relatable level. Eventually, growing up, with YouTube as such a huge influencer in today's world, it was a matter of time before videos of the same nature were being utilized by everyone, and reaching a much larger target audience rather than just kids. The distinctive difference in feeling I have is that right now, I can choose what I want to watch though, and be able to pick up concepts a lot easier than having to sit through a 30 minutes program.
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
 
 **{{< anchor "Blog_Entry_Day_2__Cheahyhk_" >}}{{< /anchor >}}**Blog Entry Day 2
 -------------------------------------------------------------------------------
@@ -43,7 +43,7 @@ I then realised that it wasn't because the topic was unrelatable, but it was mor
 
 Which has thus led, to my day2script post.
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
 
 **{{< anchor "CHEAHYHK_DAY_3" >}}{{< /anchor >}}**Day 3
 -------------------------------------------------------
@@ -56,7 +56,7 @@ With today's feedback session, I had realised that while my opening was witty, f
 
 I guess when having my script revision; I ought to do what I had done with my previous material, which is to better direct audiences to ask the right question. Hmmm, the only question right now is, **How**?!
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" >}}
 
 **{{< anchor "Day_4_Blog_Post" >}}{{< /anchor >}}**Day 4 Blog Post
 ------------------------------------------------------------------
@@ -67,6 +67,6 @@ However I realised soon after that my little problem came back as we broke into 
 
 Drawing it out however seemed to slowly help me better picture everyone else's ideas, which seems to be a core part of my graphic-heavy visualising process.
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 « {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Previous" >}} | {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Next" >}} »

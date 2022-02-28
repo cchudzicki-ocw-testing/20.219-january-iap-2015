@@ -37,7 +37,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 The beginning of an odd mathematical journey that asks (but cannot always answer) questions like, "Is math true?" or "Could The Matrix scenario happen to us?"
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Math_Woman_Saves_the_World" >}}{{< /anchor >}}Day 2 Math Woman Saves the World (the Script)
 -------------------------------------------------------------------------------------------------------
@@ -122,7 +122,7 @@ Save the world with math. No superpowers required.
 
 **The End**
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)  
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}  
 
 {{< anchor "Day_3_Trailer:_Fractals_" >}}{{< /anchor >}}Day 3 Trailer: Fractals!
 --------------------------------------------------------------------------------
@@ -131,7 +131,7 @@ Save the world with math. No superpowers required.
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Day_4_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 ----------------------------------------------------------------
@@ -156,7 +156,7 @@ This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7
 
 {{< resource c1f067c2-d2c5-5e33-0d4e-cc5daf49b91e >}}
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Fractals_Video_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script: Fractals Video Script (Draft 2)
 ----------------------------------------------------------------------------------------------------------
@@ -231,7 +231,7 @@ Look around you. What beautiful patterns do you see?
 
 **The End**
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)  
+{{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" >}}  
 
 {{< anchor "Fractals__Script_Revisited" >}}{{< /anchor >}}Day 6 Fractals! Script Revisited
 ------------------------------------------------------------------------------------------
@@ -282,7 +282,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[_Link back to Day 6_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)  
+{{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" >}}  
 
 {{< anchor "DAY_7_Script__Fractals__" >}}{{< /anchor >}}Day 7 Script (Fractals!)
 --------------------------------------------------------------------------------
@@ -331,7 +331,7 @@ Thus, fractals allow us to learn nature's best practices, and then apply them to
 
 Look around you. What beautiful patterns do you see?
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Fractals__Shot_List" >}}{{< /anchor >}}Day 8 Fractals! Shot List
 ----------------------------------------------------------------------------
@@ -367,7 +367,7 @@ Look around you. What beautiful patterns do you see?
 
 *   "At the time, Cohen was having troubles with his landlord. The man wouldn't let him put a radio antenna on the roof! So, Cohen decided to make a more compact, fractal radio antenna instead _(show wire bent as Koch snowflake.)_ The landlord didn't notice it. And it worked better than the ones before! Working further, Cohen designed a new version, this time using a fractal called "the Menger Sponge" _(build a tangible model of the Sponge, and show it)_."
 
-[_Link back to Day 8_]({{< baseurl >}}/pages/days-8-9-10-project-time#Student_Work)  
+{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" >}}  
 
 {{< anchor "Fractals__Rough_Cut" >}}{{< /anchor >}}Fractals! Rough Cut
 ----------------------------------------------------------------------
@@ -376,7 +376,7 @@ Look around you. What beautiful patterns do you see?
 
 This video is courtesy of [Yuliya Klochan](https://www.youtube.com/channel/UCzP7FGZa0sOU3ETbUIt01ug) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" >}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 ----------------------------------------------------------
@@ -397,7 +397,7 @@ Additional Scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108819986121/fractals-creative-commons-cc-by-nc-sa-mit)
 
-[_Link back to Day 13_]({{< baseurl >}}/pages/day-13-screening-final-cuts#Student_Work)
+{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" >}}
 
 {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 ----------------------------------------------------------------

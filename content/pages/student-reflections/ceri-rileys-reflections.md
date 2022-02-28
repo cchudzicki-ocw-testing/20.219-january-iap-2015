@@ -26,7 +26,7 @@ During the in-class activity, I realized how infrequently I actually watched sci
 
 I also have to refrain from jumping into all the discussions because I have a lot of feels about online video. I definitely aired on the side of caution today, but once people start speaking up / getting more comfortable with the class, I might feel better about adding to the discussion. I'm still figuring out how to transition from being a student to a TA right now, so asking me questions that I can (or can't) answer will definitely help solidify what my role is / how I can best help you guys!
 
-[_Link back to Day 1_]({{< baseurl >}}/pages/day-1-identity-and-genre#Instructor_and_Student_Work)
+{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Reflection_Day_2" >}}{{< /anchor >}}Reflection Day 2
 ----------------------------------------------------------------
@@ -37,7 +37,7 @@ This video is courtesy of [Ceri Riley](https://www.youtube.com/channel/UCQD8LaT3
 
 I think my written posts will always be more composed than an off-the-cuff vlog, but it's still good practice to get more comfortable in front of the camera!
 
-[_Link back to Day 2_]({{< baseurl >}}/pages/day-2-audience#Instructor_and_Student_Work)
+{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Reflection_Day_3" >}}{{< /anchor >}}Reflection Day 3
 ----------------------------------------------------------------
@@ -54,7 +54,7 @@ Get out the box. "[Ira Glass on the Creative Process](http://www.youtube.com/wat
 
 karldallas. "[Olivier's Hamlet film (1948): To Be Or Not To Be soliloquy](https://www.youtube.com/watch/?v=5ks-NbCHUns&index=1&list=PL8474363E94B4CF05)." 26 January, 2010. YouTube. (the 4th one in the playlist is David Tennant's in case you were wondering)
 
-[_Link back to Day 3_]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Reflection_Day_4" >}}{{< /anchor >}}Reflection Day 4
 ----------------------------------------------------------------
@@ -67,7 +67,7 @@ tl;dr if anyone needs (rudimentary) animation help, let me know after class some
 
 I can explain my personal Adobe software workflow and tips to using Illustrator & what I know of AfterEffects (not Flash right now, but I'd love to have an excuse to learn if people had an interest in using it)
 
-[_Link back to Day 4_]({{< baseurl >}}/pages/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Ceriley_s_Day_5_Reflections" >}}{{< /anchor >}}Day 5 Reflections
 ----------------------------------------------------------------------------
@@ -86,7 +86,7 @@ I said this after class to a couple people in the room, but I think it's still i
 
 I'm really excited to read scripts on Monday and see what you all produce!
 
-[_Link back to Day 5_]({{< baseurl >}}/pages/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Ceriley_s_Day_7_Reflections" >}}{{< /anchor >}}Day 7 Reflections
 ----------------------------------------------------------------------------
@@ -101,7 +101,7 @@ Also, I think an important note (or at least it would be for me, because I can g
 
 See (some of) you tomorrow, and feel free to email me at any point! I'll be happy to help in any way I can :)
 
-[_Link back to Day 7_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" >}}
 
 {{< anchor "Ceriley_s_Day_11_Reflections" >}}{{< /anchor >}}Day 11 Reflections
 ------------------------------------------------------------------------------
@@ -118,6 +118,6 @@ So, I guess, it's really good that you guys are learning what to look for in an 
 
 Soapbox aside; let me know if you need any animation help (or anything else). It's coming close to the deadline, so maybe you'll have to simplify some of your more complicated ideas, but I'm happy to help however I can.
 
-[_Link back to Day 11_]({{< baseurl >}}/pages/day-11-12-screening-rough-cuts#Student_Work)
+{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" >}}
 
 « {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Previous" >}} | {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Next" >}} »
