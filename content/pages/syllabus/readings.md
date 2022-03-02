@@ -9,7 +9,7 @@ title: Readings
 uid: d6745b83-32b8-0e0a-86c1-9e2d07a85d87
 ---
 
-« {{< resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Previous" >}} | {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Next" >}} »
+« {{% resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Previous" %}} | {{% resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Next" %}} »
 
 Unfortunately, our time is quite limited in this class. I highly recommend the following readings should you want to learn more about video production and learning. You are welcome to submit reflections on any portion of these readings in lieu of other reading assignments or blog posts:
 
@@ -19,4 +19,4 @@ Murch, Walter. _In the Blink of an Eye: A Perspective on Film Editing_. Silman-J
 
 Voltz, Stephen, and Fritz Grobe. _The Viral Video Manifesto: Why Everything You Know is Wrong and How to Do What Really Works_. McGraw-Hill Education, 2012. ISBN: 9780071803380. \[Preview with [Google Books](http://books.google.com/books?id=zPJ_8c89-2UC&pg=PAfrontcover)\]
 
-« {{< resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Previous" >}} | {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Next" >}} »
+« {{% resource_link eaf1ea87-2e1a-06ea-9cf1-bc2e13afad12 "Previous" %}} | {{% resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Next" %}} »

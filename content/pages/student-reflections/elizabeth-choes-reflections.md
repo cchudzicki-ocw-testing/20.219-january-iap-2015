@@ -9,7 +9,7 @@ title: Elizabeth Choe's Reflections
 uid: b923e518-c6b9-9f57-0dd9-04b61083f145
 ---
 
-« {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" >}} | {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" >}} »
+« {{% resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" %}} | {{% resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" %}} »
 
 [Day 1](#Echoe_s_Day_1_Thoughts) | [Day 2](#Echoe_s_Day_2_Thoughts) | [Day 3](#Echoe_s_Day_3_Thoughts) | [Day 4](#Echoe_s_Day_4_Thoughts) | [Day 5](#Echoe_s_Day_5_Thoughts) | [Day 6](#Echoe_s_Day_6_Thoughts) | [Day 7](#Echoe_s_Day_7_Thoughts) | [Day 9](#Echoe_s_Day_9_Thoughts) | [Day 11](#Echoe_s_Day_11_Thoughts)
 
@@ -28,7 +28,7 @@ It was really funny hearing Chris talk about the plastic elements of film today,
 
 The 3 - act structure of web video that Chris talked about was something I hadn't been able to verbalize or encapsulate like that - I'm going to have to steal that from him. I, too, also love the concept of making the unfamiliar familiar (and vice versa even more) - you thought you knew stuff about snot? Oh snap, turns out, you didn't, and it's weird and awesome as hell.
 
-{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Echoe_s_Day_2_Thoughts" >}}{{< /anchor >}}Day 2 Thoughts
 --------------------------------------------------------------------
@@ -47,7 +47,7 @@ I forgot to mention this during class, but there were really great and interesti
 
 I'm really excited about the group of students we have in this class and to see you all opening up more about your creative process and questions. Don't hesitate to let the teaching staff know how we can best help you throughout this process.
 
-{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Echoe_s_Day_3_Thoughts" >}}{{< /anchor >}}Day 3 Thoughts
 --------------------------------------------------------------------
@@ -109,7 +109,7 @@ Working with this class has made me realize more and more how much our tradition
 
 I'm also feeling a lot of time crunch - pressure to finish lectures, to finish drafts, to finish the project… I racked my brain thinking of the best way to pace this class, and even so, we're still super pressed for time. What have been the most vital components of this class so far? Do you think there are things I could've taken out? I thought about just having one - on  -one feedback with drafts just using Google Docs, but I wonder how much you would've missed out on by not reading your complete scripts aloud to the class and seeing their reactions and feedback (and hearing the teaching staff's feedback for other scripts)…
 
-{{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" >}}
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "_Link back to Day 6_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Echoe_s_Day_7_Thoughts" >}}{{< /anchor >}}Day 7 Thoughts
 --------------------------------------------------------------------
@@ -124,7 +124,7 @@ Public radio is good at being timely and analytical and giving you the news and 
 
 I think a radio show is better when the presenter, when the reporter exists as a person and, like, I feel like then there's more to listen for.
 
-{{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" >}}
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "_Link back to Day 7_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Echoe_s_Day_9_Thoughts" >}}{{< /anchor >}}Day 9 Thoughts
 --------------------------------------------------------------------
@@ -149,7 +149,7 @@ Then I hopped back over to the classroom, where Ceri was giving a brief tutorial
 
 I'm guessing David and Joshua were filming in the hotel this afternoon - can't wait to see how all that turns out. Home stretch! Ceri and I will be around and online this weekend if anyone needs help.
 
-{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 9_" "#Instructor_and_Student_Work" >}}
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 9_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Echoe_s_Day_11_Thoughts" >}}{{< /anchor >}}Day 11 Thoughts
 ----------------------------------------------------------------------
@@ -158,6 +158,6 @@ I'm guessing David and Joshua were filming in the hotel this afternoon - can't w
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 
-{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Instructor_and_Student_Work" >}}
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Instructor_and_Student_Work" %}}
 
-« {{< resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" >}} | {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" >}} »
+« {{% resource_link dadfeb11-98fb-e700-d205-d71a4c85f081 "Previous" %}} | {{% resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Next" %}} »

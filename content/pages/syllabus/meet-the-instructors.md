@@ -9,7 +9,7 @@ title: Meet the Instructors
 uid: 32b7558a-888d-a05c-b9fc-29fe9381506b
 ---
 
-« {{< resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" >}} | {{< resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" >}} »
+« {{% resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" %}} | {{% resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" %}} »
 
 INSTRUCTORS
 -----------
@@ -172,4 +172,4 @@ Dr. Natalie Kuldell is the director of a web-based resource called [BioBuilder](
 
 {{< tableclose >}}
 
-« {{< resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" >}} | {{< resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" >}} »
+« {{% resource_link 203eeb3a-4839-933a-901c-efa7c34f24d7 "Previous" %}} | {{% resource_link 425fa285-f1a6-adea-4de3-e852e4e9b44a "Next" %}} »

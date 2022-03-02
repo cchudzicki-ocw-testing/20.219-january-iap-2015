@@ -9,7 +9,7 @@ title: Calendar
 uid: 425fa285-f1a6-adea-4de3-e852e4e9b44a
 ---
 
-« {{< resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Previous" >}} | {{< resource_link 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf "Next" >}} »
+« {{% resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Previous" %}} | {{% resource_link 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf "Next" %}} »
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -29,7 +29,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Identity and Genre" >}}
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Identity and Genre" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -38,7 +38,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Audience" >}}
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Audience" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -47,7 +47,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Storyteller's Toolkit Pt. I: Verbal Storytelling / Writing for the Spoken Word" >}}
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Storyteller's Toolkit Pt. I: Verbal Storytelling / Writing for the Spoken Word" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ TOPICS
 4
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Storyteller's Toolkit Pt. II: Visual Storytelling" >}}
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Storyteller's Toolkit Pt. II: Visual Storytelling" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ TOPICS
 5
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Storyteller's Toolkit Pt. III: Visual Storytelling & Realizing Vision" >}}
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Storyteller's Toolkit Pt. III: Visual Storytelling & Realizing Vision" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ TOPICS
 6
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Table Read / Office Hours" >}}
+{{% resource_link 7c38a44e-5ebb-8403-cf21-c2adc0137e4b "Table Read / Office Hours" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -83,7 +83,7 @@ TOPICS
 7
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Table Read / Post-production" >}}
+{{% resource_link d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d "Table Read / Post-production" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +92,7 @@ TOPICS
 8–10
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Project Time" >}}
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Project Time" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -101,7 +101,7 @@ TOPICS
 11
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Screening (Rough Cuts)" >}}
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Screening (Rough Cuts)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -110,7 +110,7 @@ TOPICS
 12
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Projects" >}}
+{{% resource_link 6df56ca8-6d88-4c27-d497-aee73b724945 "Projects" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -119,11 +119,11 @@ TOPICS
 13
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Screening (Final Cuts)" >}}
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Screening (Final Cuts)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 
 {{< tableclose >}}
 
-« {{< resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Previous" >}} | {{< resource_link 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf "Next" >}} »
+« {{% resource_link 32b7558a-888d-a05c-b9fc-29fe9381506b "Previous" %}} | {{% resource_link 437609f3-1fdf-c9ca-e7ac-b7bbe4502dcf "Next" %}} »

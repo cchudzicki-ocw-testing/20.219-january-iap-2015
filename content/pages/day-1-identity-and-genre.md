@@ -6,7 +6,7 @@ title: 'Day 1: Identity and Genre'
 uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 ---
 
-« {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" >}} | {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" >}} »
+« {{% resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" %}} | {{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" %}} »
 
 Contents
 --------
@@ -30,11 +30,11 @@ We will discuss who you are, what brought you to this class, what / who inspires
 
 ### Video Chapters
 
-*   {{< resource_link 5330bfbb-c980-6721-f127-66272a365e39 "Introduction and rationale for the course" >}}
-*   {{< resource_link d874213c-2031-675e-60f0-557289470d9b "Education and entertainment on YouTube" >}}
-*   {{< resource_link 230fa477-2a6d-cb26-e4c7-57537b877217 "Examples and discussion of educational science videos on YouTube" >}}
-*   {{< resource_link 242450b0-043d-b7bf-fa19-55be9e8a09c2 "In-class activity: Educational video analysis" >}}
-*   {{< resource_link b3360da6-7444-9e4c-8df0-29fdc9a05b89 "What makes a good YouTube video?" >}}
+*   {{% resource_link 5330bfbb-c980-6721-f127-66272a365e39 "Introduction and rationale for the course" %}}
+*   {{% resource_link d874213c-2031-675e-60f0-557289470d9b "Education and entertainment on YouTube" %}}
+*   {{% resource_link 230fa477-2a6d-cb26-e4c7-57537b877217 "Examples and discussion of educational science videos on YouTube" %}}
+*   {{% resource_link 242450b0-043d-b7bf-fa19-55be9e8a09c2 "In-class activity: Educational video analysis" %}}
+*   {{% resource_link b3360da6-7444-9e4c-8df0-29fdc9a05b89 "What makes a good YouTube video?" %}}
 
 ### In-class Media: Video Best Practices
 
@@ -433,9 +433,9 @@ Finished
 
 ### Video Chapters
 
-*   {{< resource_link 6a3e4536-b831-820f-7f94-6aa1bfa4b6b6 "Viral videos and visual storytelling" >}}
-*   {{< resource_link ffd00f8a-87cb-e809-e555-026bde2f21c9 "What is a story?" >}}
-*   {{< resource_link 9dd40601-4e76-5fac-156b-92788ddde331 "Tips for visual storytelling" >}}
+*   {{% resource_link 6a3e4536-b831-820f-7f94-6aa1bfa4b6b6 "Viral videos and visual storytelling" %}}
+*   {{% resource_link ffd00f8a-87cb-e809-e555-026bde2f21c9 "What is a story?" %}}
+*   {{% resource_link 9dd40601-4e76-5fac-156b-92788ddde331 "Tips for visual storytelling" %}}
 
 **{{< anchor "Part_3:_Wrap-up_and_Assignment" >}}{{< /anchor >}}**Part 3: Wrap-up and Assignment
 ------------------------------------------------------------------------------------------------
@@ -444,8 +444,8 @@ Finished
 
 ### Video Chapters
 
-*   {{< resource_link 42d63580-2ac0-59d2-7b9b-72fdc30b5dd6 "Explanation of Day 1 assignments" >}}
-*   {{< resource_link 899f93ea-ecd2-0cb7-6092-45b9f1f54fcb "Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube" >}}
+*   {{% resource_link 42d63580-2ac0-59d2-7b9b-72fdc30b5dd6 "Explanation of Day 1 assignments" %}}
+*   {{% resource_link 899f93ea-ecd2-0cb7-6092-45b9f1f54fcb "Resources needed for the assignments: Annotation Studio, Tumblr, and YouTube" %}}
 
 ### In-class Media: Stem Pitch
 
@@ -481,31 +481,31 @@ Respond to sections of the reading through [Annotation Studio](http://www.annota
 
 ### Day 1 Blogs
 
-*   {{< resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 1 blog" "#Echoe_s_Day_1_Thoughts" >}}  
+*   {{% resource_link b923e518-c6b9-9f57-0dd9-04b61083f145 "Elizabeth's day 1 blog" "#Echoe_s_Day_1_Thoughts" %}}  
     
-*   {{< resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 1 blog" "#DAY_1-Ceriley" >}}  
+*   {{% resource_link 1d988e03-5e65-811f-e6d8-e82355f3c4a7 "Ceri's day 1 blog" "#DAY_1-Ceriley" %}}  
     
-*   {{< resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 1 blog" "#Cheahyhk_s_Thoughts_on_Day_1_" >}}  
+*   {{% resource_link e9794c3b-05c8-8173-ff70-a55f9946067b "Kenneth's day 1 blog" "#Cheahyhk_s_Thoughts_on_Day_1_" %}}  
     
-*   {{< resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 1 blog" "#Joshch_s_Day_1_Thoughts" >}}  
+*   {{% resource_link 7b1a98fc-328d-4951-fd19-a2109aff7506 "Joshua's day 1 blog" "#Joshch_s_Day_1_Thoughts" %}}  
     
-*   {{< resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 1 blog" "#Day_1_Andrea_s_Struggles" >}}  
+*   {{% resource_link 0a26ad07-4929-732e-5270-b0bfe8bbced9 "Andrea's day 1 blog" "#Day_1_Andrea_s_Struggles" %}}  
     
-*   {{< resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 1 blog" "#Pjfolino_s_Day_1_Thoughts" >}}  
+*   {{% resource_link 3c8916c0-2b40-6ad3-1644-162454be10f0 "PJ's day 1 blog" "#Pjfolino_s_Day_1_Thoughts" %}}  
     
-*   {{< resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 1 blog" "#Hiji_s_Day_1_Thoughts" >}}  
+*   {{% resource_link f96632a8-8b42-25f3-f84e-318abddd7856 "Nathan's day 1 blog" "#Hiji_s_Day_1_Thoughts" %}}  
     
-*   {{< resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 1 blog" "#Yklochan_Day_1_Thoughts" >}}  
+*   {{% resource_link 4c546c9b-14d9-8c4d-dcb6-2fb4649e373c "Yuliya's day 1 blog" "#Yklochan_Day_1_Thoughts" %}}  
     
-*   {{< resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 1 blog" "#First_Day" >}}
+*   {{% resource_link 4cdc7313-4a0d-59d4-1bc0-6e46b48b9564 "David's day 1 blog" "#First_Day" %}}
 
 ### Day 1 Pitches
 
-*   {{< resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 1 pitch" "#Day_1_Pitch" >}}
-*   {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 1 pitch" "#Day_1_Pitch" >}}
-*   {{< resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 1 pitch" "#Day_1_Pitch" >}}
-*   {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 1 pitch" "#Day_1_Pitch" >}}
-*   {{< resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 1 pitch" "#Day_1_Pitch" >}}
-*   {{< resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 1 pitch" "#G_del_s_Theorem_Video_Pitch" >}} 
+*   {{% resource_link a8052e86-91ed-d84e-9df2-c28f872ebec6 "Kenneth's day 1 pitch" "#Day_1_Pitch" %}}
+*   {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's day 1 pitch" "#Day_1_Pitch" %}}
+*   {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Andrea's day 1 pitch" "#Day_1_Pitch" %}}
+*   {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "PJ's day 1 pitch" "#Day_1_Pitch" %}}
+*   {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Nathan's day 1 pitch" "#Day_1_Pitch" %}}
+*   {{% resource_link 199a8a68-327f-ee7d-62ee-54642710c541 "Yuliya's day 1 pitch" "#G_del_s_Theorem_Video_Pitch" %}} 
 
-« {{< resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" >}} | {{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" >}} »
+« {{% resource_link 526193cf-30da-cdf1-c673-4faab57d51d7 "Previous" %}} | {{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Next" %}} »

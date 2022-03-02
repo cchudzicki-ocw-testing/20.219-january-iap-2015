@@ -9,7 +9,7 @@ title: Andrea Desrosiers' Project
 uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
 
-« {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" >}} | {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" >}} »
+« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »
 
 [_Link to_ _Andrea Desrosiers' page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
 
@@ -36,7 +36,7 @@ Contents
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-{{< resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" >}}
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script: Draft of "What are My Braces Doing to Me?"
 ----------------------------------------------------------------------------------------------------
@@ -109,7 +109,7 @@ Cut to Andrea walking around.
 
 Andrea: (need closing statements…)
 
-{{< resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" >}}
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Day_3_Trailer" >}}{{< /anchor >}}Day 3 - Andrea's Trailer Take 2  
 
@@ -168,7 +168,7 @@ Engineers from MIT are taking advantage of the properties of osteoblasts to come
 
 {{< resource 3a0a9487-4e89-37e3-c2aa-7335f82a6374 >}}
 
-{{< resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" >}}
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Ortho_Script" >}}{{< /anchor >}}Script: Final Draft
 ---------------------------------------------------------------
@@ -406,7 +406,7 @@ Your jaw isn't the only place where these osteoclasts and osteoblasts alter your
 
 Where braces use bone remodeling to make teeth straighter for mostly cosmetic reasons, dental implants replace teeth that are damaged or missing - to restore chewing function.
 
-{{< resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" >}}
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" %}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
@@ -415,7 +415,7 @@ Where braces use bone remodeling to make teeth straighter for mostly cosmetic re
 
 This video is courtesy of [Andrea Desrosiers](https://www.youtube.com/channel/UC3DqNsxRmnJvZEuS1N4B-vg) on YouTube and is provided under our Creative Commons license.
 
-{{< resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" >}}
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
 
 {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 ----------------------------------------------------------
@@ -446,7 +446,7 @@ Production Assistants: Nathan Hernandez, Fred Yarm
 
 Thanks to: Everyone in IAP15 20.219, the folks at DPI, and especially to my brother John Desrosiers, who inspired my love of science.
 
-{{< resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" >}}
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
 
 {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 ----------------------------------------------------------------
@@ -457,4 +457,4 @@ Andrea's video was professionally produced by [Science Out Loud](http://k12video
 
 This video is from [MITK12Videos](https://www.youtube.com/channel/UCilF_PTSRFFO2vsX392MuEg) on YouTube and is provided under their [Creative Commons](https://www.k12videos.mit.edu/faqs) license.
 
-« {{< resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" >}} | {{< resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" >}} »
+« {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »

@@ -42,18 +42,18 @@ Instructor Insights
 
 _In the following short videos, Elizabeth Choe and three guest lecturers describe various aspects of how they taught _20.219 Becoming the Next Bill Nye_._
 
-*   {{< resource_link f079282d-f10a-bc02-5d05-341dd52e2d8a "Inspiration for the Course and Intended Learning outcomes" >}}
-*   {{< resource_link b4aab433-321e-3c46-9c8e-3cd78eb0c343 "Teaching as a Team" >}}
-*   {{< resource_link 10bd67ad-2f11-9e9b-5437-4944dda4994a "Digital Media Literacy" >}}
-*   {{< resource_link 37559c50-f260-24ec-9c89-75a5e7ac978a "Assessment and Feedback in Creative Contexts" >}}
-*   {{< resource_link be800c68-3d72-ecaf-3af4-e7d6c9612779 "Teaching through Workshops" >}}
-*   {{< resource_link fb9aef4b-2454-2e0e-df12-b76b6da6c798 "A Class on Pre-Production" >}}
+*   {{% resource_link f079282d-f10a-bc02-5d05-341dd52e2d8a "Inspiration for the Course and Intended Learning outcomes" %}}
+*   {{% resource_link b4aab433-321e-3c46-9c8e-3cd78eb0c343 "Teaching as a Team" %}}
+*   {{% resource_link 10bd67ad-2f11-9e9b-5437-4944dda4994a "Digital Media Literacy" %}}
+*   {{% resource_link 37559c50-f260-24ec-9c89-75a5e7ac978a "Assessment and Feedback in Creative Contexts" %}}
+*   {{% resource_link be800c68-3d72-ecaf-3af4-e7d6c9612779 "Teaching through Workshops" %}}
+*   {{% resource_link fb9aef4b-2454-2e0e-df12-b76b6da6c798 "A Class on Pre-Production" %}}
 
 _In the following pages, Elizabeth Choe and Jaime Goldstein describe various aspects of how they taught _20.219 Becoming the Next Bill Nye_._
 
-*   {{< resource_link a0230e42-8e9a-fc43-9b16-25558c1717d3 "Planning Backwards" >}}
-*   {{< resource_link f1e55a73-f7ce-a5df-7f8c-3cdb40b62292 "Grading and Feedback in a Course Focused on Creative Work" >}}
-*   {{< resource_link 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c "Cultivating a Healthy Classroom Culture" >}}
+*   {{% resource_link a0230e42-8e9a-fc43-9b16-25558c1717d3 "Planning Backwards" %}}
+*   {{% resource_link f1e55a73-f7ce-a5df-7f8c-3cdb40b62292 "Grading and Feedback in a Course Focused on Creative Work" %}}
+*   {{% resource_link 21d57d5a-7bfd-9ae9-4ece-2d578ddbf16c "Cultivating a Healthy Classroom Culture" %}}
 
 {{< anchor "timeline" >}}{{< /anchor >}}
 
@@ -62,7 +62,7 @@ Teaching Reflections Timeline
 
 [{{< resource 77291066-52bb-5c11-722e-60e97ad6e4af >}}]({{< baseurl >}}/pages/instructor-insights/teaching-reflections-timeline)_In the following interactive timeline, Elizabeth Choe shares self-recorded confessional-style videos that illustrate a day-by-day account of what what went well and what could have been improved in the teaching of the course._
 
-{{< resource_link bff85acf-9745-fca1-40eb-0d6936576b7c "20.219 Teaching Reflections Timeline" >}}
+{{% resource_link bff85acf-9745-fca1-40eb-0d6936576b7c "20.219 Teaching Reflections Timeline" %}}
 
 Curriculum Information
 ----------------------
@@ -126,7 +126,7 @@ The following were our class values, and all assignments were graded with these 
 
 We provided students with feedback (numerical and written) on all assignments using a rubric built around these values.
 
-{{< resource_link 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7 "Grading Rubric for 20.219 (PDF)" >}}
+{{% resource_link 1c8f9dac-c806-d40a-0a6e-eff8bf37d8d7 "Grading Rubric for 20.219 (PDF)" %}}
 
 ### Instructor Insights on Assessment
 
