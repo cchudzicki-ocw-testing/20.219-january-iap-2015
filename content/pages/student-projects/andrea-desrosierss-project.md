@@ -112,7 +112,7 @@ Andrea: (need closing statements…)
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-\[\_Link back to Day 3\_\]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor\_and\_Student\_Work)
+\[\_Link back to Day 3\_ \]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor\_and\_Student\_Work)
 
 ## {{< anchor "Day_4-Script" >}}{{< /anchor >}}Day 4 - Andrea's Second Script Idea for Ortho
 
@@ -228,7 +228,7 @@ Smarter.
 
 And once we've tasted the forbidden fruit will we still be human?
 
-\[\_Link back to Day 7\_\]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor\_and\_Student\_Work)
+\[\_Link back to Day 7\_ \]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor\_and\_Student\_Work)
 
 ## {{< anchor "Ortho_Shot_List-prelim" >}}{{< /anchor >}}Day 8 Shot List
 
