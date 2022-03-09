@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Projects
@@ -8,29 +9,25 @@ parent_uid: 6df56ca8-6d88-4c27-d497-aee73b724945
 title: Paul (PJ) Folino's Project
 uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
-
 « {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" %}} | {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" %}} »
 
 [_Link to Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
 
-Contents
---------
+## Contents
 
-*   [Day 1 Pitch](#Day_1_Pitch)
-*   [Day 2 Script](#Day_2_Script)
-*   [Day 3 Trailer: Subdivision Pitch](#Subdivision_Pitch)
-*   [Day 4 Storyboard](#Paul_s_Storyboard)
-*   [Day 5 Script](#Pjfolino_s_Script_Draft_2)
-*   [Day 6 Script  
-    ](#Pjfolino_s_Script_Redo)
-*   [Day 7 Script](#Pjfolino_s_Script_Redo)
-*   [Day 8 Shot List](#Pjfolino_s_Day_8_Shot_List)
-*   [Day 11 Rough Cut](#Rough_Cut)
-*   [Day 13 Final Project](#Final_Project)
-*   [Science Out Loud](#Science_Out_Loud)
+- [Day 1 Pitch](#Day_1_Pitch)
+- [Day 2 Script](#Day_2_Script)
+- [Day 3 Trailer: Subdivision Pitch](#Subdivision_Pitch)
+- [Day 4 Storyboard](#Paul_s_Storyboard)
+- [Day 5 Script](#Pjfolino_s_Script_Draft_2)
+- [Day 6 Script](#Pjfolino_s_Script_Redo)
+- [Day 7 Script](#Pjfolino_s_Script_Redo)
+- [Day 8 Shot List](#Pjfolino_s_Day_8_Shot_List)
+- [Day 11 Rough Cut](#Rough_Cut)
+- [Day 13 Final Project](#Final_Project)
+- [Science Out Loud](#Science_Out_Loud)
 
-{{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch: The Science of Poaching an Egg Pitch
---------------------------------------------------------------------------------------------
+## {{< anchor "Day_1_Pitch" >}}{{< /anchor >}}Day 1 Pitch: The Science of Poaching an Egg Pitch
 
 {{< resource 1814d85e-b530-0b7d-b278-765feb1c8e78 >}}
 
@@ -40,10 +37,9 @@ I have never been able to poach an egg well. Come to find out, there is a lot of
 
 Food for thought: Did you know there are statistical correlations between how you cook your eggs and how happy you are?
 
-{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "_Link back to Day 1_" "#Instructor_and_Student_Work" %}}
+{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "Link back to Day 1" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script
---------------------------------------------------------
+## {{< anchor "Day_2_Script" >}}{{< /anchor >}}Day 2 Script
 
 Title: Thinking about Sinking
 
@@ -51,48 +47,46 @@ I. Introduction
 
 _Setting: Nautical Museum in Building 5_
 
-1.  Paul (walking): As long as people have lived on this planet, there have been boats. Many of the model boats shown in this museum are over 100 years old, but evidence suggests that the oldest ones date back to log boats, almost 10,000 years ago.
+1. Paul (walking): As long as people have lived on this planet, there have been boats. Many of the model boats shown in this museum are over 100 years old, but evidence suggests that the oldest ones date back to log boats, almost 10,000 years ago.
 
 _Camera view pans on vessel traffic in Boston Harbor then focuses and zooms on Paul._
 
-3.  But now, when we look out onto the harbor, it is clear that we have advanced since the times of hollowed out trees. Today, there are all types of ships such as… (pause) (Video on specific ship / audio) containerships, oil tankers, and cruise ships, among many others.
-4.  (Back to Boston Harbor) But as we got better in the design of ships, so did we venture away from the safe haven of the shore and into rough and dangerous seas (transition to next picture).
-5.  (Break to video clip or picture in motion of the Titanic sinking, just audio) Now we are all familiar with vessels like the Titanic, which sank on her maiden voyage and lost 1,517 lives in the frigid waters of the North Atlantic. But what if I were to tell you that a basic design flaw is what caused the Titanic to sink?
-6.  In this video, I will show you how the advanced vessels of today are able to stay afloat, even after suffering extensive damage. I am going to introduce to you the idea of "subdivision."
+1. But now, when we look out onto the harbor, it is clear that we have advanced since the times of hollowed out trees. Today, there are all types of ships such as… (pause) (Video on specific ship / audio) containerships, oil tankers, and cruise ships, among many others.
+2. (Back to Boston Harbor) But as we got better in the design of ships, so did we venture away from the safe haven of the shore and into rough and dangerous seas (transition to next picture).
+3. (Break to video clip or picture in motion of the Titanic sinking, just audio) Now we are all familiar with vessels like the Titanic, which sank on her maiden voyage and lost 1,517 lives in the frigid waters of the North Atlantic. But what if I were to tell you that a basic design flaw is what caused the Titanic to sink?
+4. In this video, I will show you how the advanced vessels of today are able to stay afloat, even after suffering extensive damage. I am going to introduce to you the idea of "subdivision."
 
 II. Body
 
 _Setting: Tow Tank_
 
-1.  As a Coast Guard Marine Inspector and naval architect, that is a "ship designer," I sometimes lose sleep over the thought of a vessel sinking. The idea that a mariner or boat enthusiast would not be able to return to his or her family is troubling, but luckily engineering can help resolve it!
-2.  This is because many ships are subdivided into watertight compartments by walls, called bulkheads, and floors, called decks. When a ship is damaged, only certain compartments are flooded instead of the whole ship.
-3.  To demonstrate this concept I have three box barge models. One is the ORCA, and it has no subdivision, that is, no bulkheads or decks, as you can see. The other is the ISHMAEL and it has subdivision. The last vessel is the TITANIC II, and it has subdivision but it does not connect to the uppermost deck.
-4.  Now to demonstrate that each of these models are watertight to begin with, I will place them all in the water and wait 5 minutes to ensure they float and do not sink. (Fast forward the 5 minutes of waiting time).
-5.  Great, they all float in the undamaged condition. Now I will take the ORCA and cut a 1-inch hole into its side. (Show cutting hole and place in water)… As we can see water is rushing into the vessel and since there is no structure to stop this, the vessel fills with water and sinks.
-6.  As you may already know, objects float and sink for a variety of reasons. Materials like wood, foam, and ice float because they are less dense than water. But shipbuilding materials like steel and aluminum are denser than water. So how does this happen?
-7.  Archimedes, of course!
+1. As a Coast Guard Marine Inspector and naval architect, that is a "ship designer," I sometimes lose sleep over the thought of a vessel sinking. The idea that a mariner or boat enthusiast would not be able to return to his or her family is troubling, but luckily engineering can help resolve it!
+2. This is because many ships are subdivided into watertight compartments by walls, called bulkheads, and floors, called decks. When a ship is damaged, only certain compartments are flooded instead of the whole ship.
+3. To demonstrate this concept I have three box barge models. One is the ORCA, and it has no subdivision, that is, no bulkheads or decks, as you can see. The other is the ISHMAEL and it has subdivision. The last vessel is the TITANIC II, and it has subdivision but it does not connect to the uppermost deck.
+4. Now to demonstrate that each of these models are watertight to begin with, I will place them all in the water and wait 5 minutes to ensure they float and do not sink. (Fast forward the 5 minutes of waiting time).
+5. Great, they all float in the undamaged condition. Now I will take the ORCA and cut a 1-inch hole into its side. (Show cutting hole and place in water)… As we can see water is rushing into the vessel and since there is no structure to stop this, the vessel fills with water and sinks.
+6. As you may already know, objects float and sink for a variety of reasons. Materials like wood, foam, and ice float because they are less dense than water. But shipbuilding materials like steel and aluminum are denser than water. So how does this happen?
+7. Archimedes, of course!
 
 (Cut to moving image of Archimedes in bathtub, just audio)
 
-9.  Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"
-    
+1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"   
+      
     (Have easel with white paper to describe this concept)
-    
-10.  This can simply be explained by the following: if the weight of an object divided by its volume is greater than 1, it will sink, if less than 1 it will float. If it equals one it remains neutrally buoyant, like a submarine.
-11.  (Perform calculation on paper) So if we take the weight of the box barge and add the weight of water currently inside of it and divide it by its volume we find it will be greater than 1, therefore it sinks.
-12.  Now we take the subdivided barge and damage it in the same area (pick up second barge and cut hole in it, place in water)… as you can see water stops flowing into the barge because the bulkhead blocks it from progressing. This results in the barge angled or trimmed in the water but it has not yet sunk.
-13.  (Perform calculation on easel) Again if we take the weight of the water added to the 1 compartment and add the weight of the barge and then divide it by its volume, our density is still less than 1 so it floats, just in a trimmed condition. Trim occurs because the distribution of weight on the vessel is uneven, like being on a see-saw with one person.
-14.  (Now pick up other barge) Now we look at the Titanic II. The RMS Titanic was described as the "unsinkable" ship but we all know that is not true. Can you imagine what will happen to the ship if we damage this compartment with an iceberg? (Damage and place in tank).
-15.  (As model is sinking) The lead designer of the Titanic, Thomas Andrews, did not require the bulkheads to connect with the watertight deck above. This resulted in progressive flooding into adjacent compartments and just like the ORCA, resulted in the vessel sinking.
+2. This can simply be explained by the following: if the weight of an object divided by its volume is greater than 1, it will sink, if less than 1 it will float. If it equals one it remains neutrally buoyant, like a submarine.
+3. (Perform calculation on paper) So if we take the weight of the box barge and add the weight of water currently inside of it and divide it by its volume we find it will be greater than 1, therefore it sinks.
+4. Now we take the subdivided barge and damage it in the same area (pick up second barge and cut hole in it, place in water)… as you can see water stops flowing into the barge because the bulkhead blocks it from progressing. This results in the barge angled or trimmed in the water but it has not yet sunk.
+5. (Perform calculation on easel) Again if we take the weight of the water added to the 1 compartment and add the weight of the barge and then divide it by its volume, our density is still less than 1 so it floats, just in a trimmed condition. Trim occurs because the distribution of weight on the vessel is uneven, like being on a see-saw with one person.
+6. (Now pick up other barge) Now we look at the Titanic II. The RMS Titanic was described as the "unsinkable" ship but we all know that is not true. Can you imagine what will happen to the ship if we damage this compartment with an iceberg? (Damage and place in tank).
+7. (As model is sinking) The lead designer of the Titanic, Thomas Andrews, did not require the bulkheads to connect with the watertight deck above. This resulted in progressive flooding into adjacent compartments and just like the ORCA, resulted in the vessel sinking.
 
 III. Conclusion
 
 1\. In conclusion, subdivision is used on vessels for many reasons, one of which is to ensure the ship doesn't sink! As a naval architect, you will be ensuring that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that your loved ones return safely from the sea!
 
-{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "_Link back to Day 2_" "#Instructor_and_Student_Work" %}}
+{{% resource_link 3da88bd7-fc04-b288-6227-11604ae6a159 "Link back to Day 2" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Subdivision_Pitch" >}}{{< /anchor >}}Day 3 Trailer: Subdivision Pitch
----------------------------------------------------------------------------------
+## {{< anchor "Subdivision_Pitch" >}}{{< /anchor >}}Day 3 Trailer: Subdivision Pitch
 
 {{< resource 3c665d01-b608-9199-a462-cc2b1510e997 >}}
 
@@ -100,21 +94,21 @@ This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQM
 
 The actual prototype is being thought of / designed. This subdivided "barge" WILL sink.
 
-{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "Link back to Day 3" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Paul_s_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
------------------------------------------------------------------
+## {{< anchor "Paul_s_Storyboard" >}}{{< /anchor >}}Day 4 Storyboard
 
 {{< resource 95bee45f-c7d0-de0d-68c7-a0e2f13ea13b >}}
+
+ 
 
 {{< resource 7541c31a-d8c8-ba1b-4794-4707325cfbf2 >}}
 
 I am still refining the script.
 
-{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "Link back to Day 4" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Pjfolino_s_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script
----------------------------------------------------------------------
+## {{< anchor "Pjfolino_s_Script_Draft_2" >}}{{< /anchor >}}Day 5 Script
 
 Title: Thinking about Sinking
 
@@ -156,10 +150,9 @@ _(Animation on top of still picture of boxes)_ A basic way to describe it is lik
 
 _(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
 
-{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}{{% resource_link e7ab07a5-9bf4-78a1-8a95-a815093ec211 "" "#Instructor_and_Student_Work" %}}
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
-{{< anchor "Pjfolino_s_Script_Redo" >}}{{< /anchor >}}Day 6 Script
-------------------------------------------------------------------
+## {{< anchor "Pjfolino_s_Script_Redo" >}}{{< /anchor >}}Day 6 Script
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -193,11 +186,9 @@ _(In Naval Construction design lab, simulation on desktop behind me)_ Computers 
 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
-[_Link back to Day 6  
-_]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor_and_Student_Work)
+\[_Link back to Day 6_ \]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor\_and\_Student\_Work)
 
-{{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
--------------------------------------------------------------
+## {{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
@@ -233,11 +224,9 @@ So even though ships might seem like these complicated, intricate things… they
 
 (nothing really changed from before)
 
-[_Link back to Day 7  
-_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+\[_Link back to Day 7_ \]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor\_and\_Student\_Work)
 
-{{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
--------------------------------------------------------------------------
+## {{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
 
 Sinking Scene shots
 
@@ -277,12 +266,12 @@ To Shoot:
 
 Outside Marine Robotics Lab
 
-1.  CU of PJ explaining "complex things" (keep rolling).
-2.  CU of PJ standing with box in hand, cutting hole in box then CUT to high angle shot of placing boat in water.
-3.  GoPro footage of box sinking.
-4.  CU of PJ standing in same spot as part 2, but with ORCA II, cutting hole in box.
-5.  GoPro Footage of ORCA II not sinking.
-6.  CU of PJ offset in frame with ORCA II angled in background.
+1. CU of PJ explaining "complex things" (keep rolling).
+2. CU of PJ standing with box in hand, cutting hole in box then CUT to high angle shot of placing boat in water.
+3. GoPro footage of box sinking.
+4. CU of PJ standing in same spot as part 2, but with ORCA II, cutting hole in box.
+5. GoPro Footage of ORCA II not sinking.
+6. CU of PJ offset in frame with ORCA II angled in background.
 
 **Scene 2**
 
@@ -300,11 +289,11 @@ _(Back to CU)_ It's unclear when subdivision started being used in boat building
 
 To Shoot:
 
-1.  CU of PJ's with two boxes, CUT to…
-2.  CU of PJ's hands pointing to ORCA II's bulkheads and lack of ORCA I bulkheads (just audio)
-3.  CU of PJ hands pointing to ORCA I and II, roll camera up to PJ
-4.  PJ off to side leaning over plan's but turned camera to see subdivision in ship's plans, ducks and splines around plans (Possible "… many ships plans" could be images in video of vessel plans with subdivision)
-5.  Plans in background, PJ on stool CU.
+1. CU of PJ's with two boxes, CUT to…
+2. CU of PJ's hands pointing to ORCA II's bulkheads and lack of ORCA I bulkheads (just audio)
+3. CU of PJ hands pointing to ORCA I and II, roll camera up to PJ
+4. PJ off to side leaning over plan's but turned camera to see subdivision in ship's plans, ducks and splines around plans (Possible "… many ships plans" could be images in video of vessel plans with subdivision)
+5. Plans in background, PJ on stool CU.
 
 **Scene 3**
 
@@ -314,7 +303,7 @@ _(Animation, possible live reshoot)_ When we divide the ship into watertight com
 
 To Shoot:
 
-1.  See Scene 2, Part 4.
+1. See Scene 2, Part 4.
 
 **Scene 4**
 
@@ -328,23 +317,21 @@ So even though ships might seem like these complicated, intricate things… they
 
 To Shoot:
 
-1.  CU of PJ (PJ Turns to camera)
-2.  Video recording of POSSE simulation
-3.  See Part 1
+1. CU of PJ (PJ Turns to camera)
+2. Video recording of POSSE simulation
+3. See Part 1
 
-{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "_Link back to Day 8_" "#Student_Work" %}}
+{{% resource_link dd2e9064-39f5-8292-7c78-a9141317dcc6 "Link back to Day 8" "#Student_Work" %}}
 
-{{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
---------------------------------------------------
+## {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 
 {{< resource 1720fd56-2daa-9292-c39c-540daed6a7a8 >}}
 
 This video is courtesy of [Paul Folino](https://www.youtube.com/channel/UCtb_yQMgOZfa6T-XZR2WC1Q) on YouTube and is provided under our Creative Commons license.
 
-{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "_Link back to Day 11_" "#Student_Work" %}}
+{{% resource_link 91a83a5a-9923-d001-da64-fbbcd37341cb "Link back to Day 11" "#Student_Work" %}}
 
-{{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
-----------------------------------------------------------
+## {{< anchor "Final_Project" >}}{{< /anchor >}}Final Project
 
 {{< resource 69cf2824-fede-94ba-b935-2c621e55fd61 >}}
 
@@ -360,10 +347,9 @@ Additional scripting: Elizabeth Choe, Jaime Goldstein, Ceri Riley, George Zaidan
 
 [See the full credits on the course Tumblr.](http://mit219.tumblr.com/post/108847363726/pjfolino-subdivision-in-ships-creative)
 
-{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "_Link back to Day 13_" "#Student_Work" %}}
+{{% resource_link 2dc5287f-35ed-e833-9c9b-93f4238ac687 "Link back to Day 13" "#Student_Work" %}}
 
-{{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
-----------------------------------------------------------------
+## {{< anchor "Science_Out_Loud" >}}{{< /anchor >}}Science Out Loud
 
 Paul's video was professionally produced by [Science Out Loud](http://k12videos.mit.edu/science-out-loud) after this course finished.
 
