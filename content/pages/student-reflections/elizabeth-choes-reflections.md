@@ -53,7 +53,7 @@ I'm really excited about the group of students we have in this class and to see 
 
 This video is courtesy of [Elizabeth Choe](https://www.youtube.com/channel/UCOduGt2sk_wjQniqtWZt90A) on YouTube and is provided under our Creative Commons license.
 
-[_Link back to Day 3_](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-3-storytellers-toolkit-pt.-1#Instructor_and_Student_Work)
+{{% resource_link 36586ba5-68db-37ca-a516-348b595214d8 "_Link back to Day 3_" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Echoe_s_Day_4_Thoughts" >}}{{< /anchor >}}Day 4 Reflections
 
@@ -69,7 +69,7 @@ tl;dr write a script! It's okay if you end up changing it! And really challenge 
 
 P.S. Totally empathize with how difficult this is, you all are doing a great job.
 
-[_Link back to Day 4_](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-4-storytellers-toolkit-pt.-2#Instructor_and_Student_Work)
+{{% resource_link 60a6ea96-1026-802d-98a9-351ce3b38557 "_Link back to Day 4_" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Echoe_s_Day_5_Thoughts" >}}{{< /anchor >}}Day 5 Thoughts
 
@@ -91,7 +91,7 @@ It's 4:30 right now and Joshua and Nathan just came back from filming in Nathan'
 
 Very, very happy with the progress everyone is making, and even more excited to see where'll you all go next week.
 
-[_Link back to Day 5_](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/day-5-storytellers-toolkit-pt.-3#Instructor_and_Student_Work)
+{{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "_Link back to Day 5_" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Echoe_s_Day_6_Thoughts" >}}{{< /anchor >}}Day 6 Thoughts
 
@@ -123,19 +123,19 @@ I think a radio show is better when the presenter, when the reporter exists as a
 
 Today I followed Yuliya / PJ / Kenneth around for a bit as they filmed part of Yuliya's video on fractals in E ast Campus (a dorm nearby, for those of you who are unfamiliar).
 
-![Two students working together.](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day91.jpg)
+{{< resource 475332e9-ecde-3d4a-b079-f6325ddbfdd4 "Two students working together." >}}
 
 (Just a little creepin' 'round the corner, don't mind me…)
 
 Beyond anything, I am thrilled with how you all are approaching shots, planning, hosting… I heard some great directorial advice from the guys. I know you are working under very tight time constraints and not the greatest equipment, and it's okay if you don't make a YouTube show. What's most important is that you can identify how to make things better / why things work or don't work in video, etc… and from what I'm overhearing, a lot of that is happening.
 
-![Two students working together with a tripod and camera](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day9_2.jpg)
+{{< resource ffa1ce4a-9163-22fb-1029-c540ad7d416a "Two students working together with a tripod and camera" >}}
 
 (Look! PJ's smiling!!)
 
 Then I hopped back over to the classroom, where Ceri was giving a brief tutorial on using the tablets in Illustrator to eventually create simple animations (jumping goats, in Andrea's case). Again, I know there's not a whole lot of time to create sweeping animations, but hopefully this gives you a little taste of some of the video production techniques you can play with long after this class ends.
 
-![Two students working on computers creating an animation.](/courses/biological-engineering/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/student-reflections/elizabeth-choes-reflections/day9_3.jpg)
+{{< resource c4311423-d395-246e-3bef-043c7361cdb1 "Two students working on computers creating an animation." >}}
 
 (Smiles from everyone today! Huzzah.)
 
