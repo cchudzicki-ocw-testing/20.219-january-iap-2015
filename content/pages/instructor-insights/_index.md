@@ -43,7 +43,7 @@ After taking this course, students should be able to:
 
  
 
-_In the following short videos, Elizabeth Choe and three guest lecturers describe various aspects of how they taught \_20.219 Becoming the Next Bill Nye_.\_
+_In the following short videos, Elizabeth Choe and three guest lecturers describe various aspects of how they taught_ 20.219 Becoming the Next Bill Nye.
 
 - {{% resource_link f079282d-f10a-bc02-5d05-341dd52e2d8a "Inspiration for the Course and Intended Learning outcomes" %}}
 - {{% resource_link b4aab433-321e-3c46-9c8e-3cd78eb0c343 "Teaching as a Team" %}}
@@ -88,7 +88,7 @@ The students' grades were based on the following activities:
 ### Class participation
 
 - Because this was a workshop-based course, and because sessions built upon each other, it was crucial for students to attend every class.
-- Meaningful peer feedback was crucial throughout the production process, and students were expected to be involved and engaged in this workshop-based class (discussions, table reads, rough cut annotations, etc.)  
+- Meaningful peer feedback was crucial throughout the production process, and students were expected to be involved and engaged in this workshop-based class (discussions, table reads, rough cut annotations, etc.)   
     {{< div-with-class "reveal1">}}
 
 › _Read More/Read Less_
@@ -114,7 +114,8 @@ Students’ work culminated in a \<5 min. episode. Individual grades reflected 6
 
 The following were our class values, and all assignments were graded with these qualities in mind:
 
-- Spark
+Spark
+
 - Clarity
 - Thoughtfulness
 - Challenge
