@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 ocw_type: ''
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'STEM nugget workshop: students and instructors brainstorm'
 uid: 82aa6d99-03e2-9c9b-b00e-cb7260f1d17c
 video_files:
