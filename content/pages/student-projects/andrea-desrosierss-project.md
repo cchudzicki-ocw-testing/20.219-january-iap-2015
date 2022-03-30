@@ -11,7 +11,7 @@ uid: 1d079dd5-c0b4-174a-4773-f2520a5e0743
 ---
 « {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Previous" %}} | {{% resource_link 265dbc31-50c1-a4e1-4686-f6c614415b05 "Next" %}} »
 
-[_Link to_ _Andrea Desrosiers' page on Tumblr_](http://mit219.tumblr.com/tagged/aedesros)
+[*Link to* *Andrea Desrosiers' page on Tumblr*](http://mit219.tumblr.com/tagged/aedesros)
 
 ## Contents
 
@@ -112,7 +112,7 @@ Andrea: (need closing statements…)
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-\[\_Link back to Day 3\_ \]({{< baseurl >}}/pages/day-3-storytellers-toolkit-pt.-1#Instructor\_and\_Student\_Work)
+[Link back to Day 3](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-3-storytellers-toolkit-pt-1/)
 
 ## {{< anchor "Day_4-Script" >}}{{< /anchor >}}Day 4 - Andrea's Second Script Idea for Ortho
 
@@ -392,7 +392,7 @@ Locations:
 - Orthodontic Operatory
 - Classroom Blackboard
 
-_VO_
+*VO*
 
 Your jaw isn't the only place where these osteoclasts and osteoblasts alter your bone structure. In fact, this bony remodeling process is happening throughout your body.
 
