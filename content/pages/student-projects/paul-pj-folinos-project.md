@@ -70,7 +70,7 @@ II. Body
 
 (Cut to moving image of Archimedes in bathtub, just audio)
 
-1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"    
+1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"     
       
     (Have easel with white paper to describe this concept)
 2. This can simply be explained by the following: if the weight of an object divided by its volume is greater than 1, it will sink, if less than 1 it will float. If it equals one it remains neutrally buoyant, like a submarine.
@@ -186,7 +186,7 @@ Ships still sink though. It's expensive and impractical to design the "unsinkabl
 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
-[Link back to Day 6](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-6-table-read-and-office-hours/)
+[Link back to Day 6](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-2-audience/#Instructor_and_Student_Work)
 
 ## {{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
 
@@ -224,7 +224,7 @@ So even though ships might seem like these complicated, intricate things… they
 
 (nothing really changed from before)
 
-[Link back to Day 7](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/)
+[Link back to Day 7](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-2-audience/#Instructor_and_Student_Work)
 
 ## {{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
 
