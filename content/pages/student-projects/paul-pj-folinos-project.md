@@ -11,7 +11,7 @@ uid: 265dbc31-50c1-a4e1-4686-f6c614415b05
 ---
 « {{% resource_link 1d079dd5-c0b4-174a-4773-f2520a5e0743 "Previous" %}} | {{% resource_link 65f298a7-9f2a-0550-e78e-d9fc7ff17ff4 "Next" %}} »
 
-[_Link to Paul (PJ) Folino's Page on Tumblr_](http://mit219.tumblr.com/tagged/pjfolino)
+[*Link to Paul (PJ) Folino's Page on Tumblr*](http://mit219.tumblr.com/tagged/pjfolino)
 
 ## Contents
 
@@ -45,11 +45,11 @@ Title: Thinking about Sinking
 
 I. Introduction
 
-_Setting: Nautical Museum in Building 5_
+*Setting: Nautical Museum in Building 5*
 
 1. Paul (walking): As long as people have lived on this planet, there have been boats. Many of the model boats shown in this museum are over 100 years old, but evidence suggests that the oldest ones date back to log boats, almost 10,000 years ago.
 
-_Camera view pans on vessel traffic in Boston Harbor then focuses and zooms on Paul._
+*Camera view pans on vessel traffic in Boston Harbor then focuses and zooms on Paul.*
 
 1. But now, when we look out onto the harbor, it is clear that we have advanced since the times of hollowed out trees. Today, there are all types of ships such as… (pause) (Video on specific ship / audio) containerships, oil tankers, and cruise ships, among many others.
 2. (Back to Boston Harbor) But as we got better in the design of ships, so did we venture away from the safe haven of the shore and into rough and dangerous seas (transition to next picture).
@@ -58,7 +58,7 @@ _Camera view pans on vessel traffic in Boston Harbor then focuses and zooms on P
 
 II. Body
 
-_Setting: Tow Tank_
+*Setting: Tow Tank*
 
 1. As a Coast Guard Marine Inspector and naval architect, that is a "ship designer," I sometimes lose sleep over the thought of a vessel sinking. The idea that a mariner or boat enthusiast would not be able to return to his or her family is troubling, but luckily engineering can help resolve it!
 2. This is because many ships are subdivided into watertight compartments by walls, called bulkheads, and floors, called decks. When a ship is damaged, only certain compartments are flooded instead of the whole ship.
@@ -70,7 +70,7 @@ _Setting: Tow Tank_
 
 (Cut to moving image of Archimedes in bathtub, just audio)
 
-1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"   
+1. Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the mass of water it displaces. He was so excited about his discovery that he ran through the streets naked screaming "Eureka!"    
       
     (Have easel with white paper to describe this concept)
 2. This can simply be explained by the following: if the weight of an object divided by its volume is greater than 1, it will sink, if less than 1 it will float. If it equals one it remains neutrally buoyant, like a submarine.
@@ -112,43 +112,43 @@ I am still refining the script.
 
 Title: Thinking about Sinking
 
-_(@ Tow Tank / Vorticity Tank, civilian clothes)_ Paul: Let us imagine that these two boxes here, ORCA I and ORCA II, are ships. They kind of look like barges.
+*(@ Tow Tank / Vorticity Tank, civilian clothes)* Paul: Let us imagine that these two boxes here, ORCA I and ORCA II, are ships. They kind of look like barges.
 
-Since foam is less dense than water, we know that they'll both float _(place 2 boxes on top of the water)_.
+Since foam is less dense than water, we know that they'll both float *(place 2 boxes on top of the water)*.
 
-Now, lets take ORCA I out of the water and damage it below the waterline _(Take ORCA I out of water and cut hole into box)_.
+Now, lets take ORCA I out of the water and damage it below the waterline *(Take ORCA I out of water and cut hole into box)*.
 
-What do you think will happen when I put ORCA I in the water? _(motion of putting box in water)(Go to GoPro footage while box is sinking)_
+What do you think will happen when I put ORCA I in the water? *(motion of putting box in water)(Go to GoPro footage while box is sinking)*
 
-If you guessed that the weight of the added water would be enough to sink her (while sinking, still GoPro)… _(cut to CU of box at bottom of tank with Paul)_ you'd be right _(box sinks)_
+If you guessed that the weight of the added water would be enough to sink her (while sinking, still GoPro)… *(cut to CU of box at bottom of tank with Paul)* you'd be right *(box sinks)*
 
-Now let's take ORCA II and damage it in the same spot and see what happens _(Grab vessel, walk over to table, create same damage, place in water, doesn't sink)_.
+Now let's take ORCA II and damage it in the same spot and see what happens *(Grab vessel, walk over to table, create same damage, place in water, doesn't sink)*.
 
-You can see that ORCA II did not sink, although it is trimmed, that means angled, to the bow. So, why did ORCA II, a seemingly identical ship, not sink? How do we prevent ships from sinking? _(pause)_
+You can see that ORCA II did not sink, although it is trimmed, that means angled, to the bow. So, why did ORCA II, a seemingly identical ship, not sink? How do we prevent ships from sinking? *(pause)*
 
 The answer lies in subdivision.
 
-_(B-Roll of sound and showing fast forward vessel traffic at a container terminal / cruise ships, harbor traffic, etc?)_
+*(B-Roll of sound and showing fast forward vessel traffic at a container terminal / cruise ships, harbor traffic, etc?)*
 
-_(At Hart Nautical Collection @ MIT Museum with Hereshoff half hulls as a backdrop)_ If we remove the tops of both ships, called the weather deck, and take a look inside _(Video a close up of removing the decks, just audio voice), (back to presenting)_ we can see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I is not.
+*(At Hart Nautical Collection @ MIT Museum with Hereshoff half hulls as a backdrop)* If we remove the tops of both ships, called the weather deck, and take a look inside *(Video a close up of removing the decks, just audio voice), (back to presenting)* we can see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I is not.
 
 These compartments are watertight which means that they can be filled with water, without leaking into other compartments (look at camera). This subdivision reduces the amount of water that can enter the vessel if damaged. So a ship can be damaged and still not sink!
 
-_(Top down angle, showing the ships)_ So why don't we just add hundreds of watertight bulkheads, then the ship would never sink? Now remember, most ships are made with materials that sink, like steel, so lets have Archimedes help answer this!
+*(Top down angle, showing the ships)* So why don't we just add hundreds of watertight bulkheads, then the ship would never sink? Now remember, most ships are made with materials that sink, like steel, so lets have Archimedes help answer this!
 
-_(Back at Tow Tank)_ Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the weight of water it displaces.
+*(Back at Tow Tank)* Archimedes was a Greek mathematician long ago. The story goes that he was in the bathtub when he discovered that the weight of an object is equal to the weight of water it displaces.
 
-_(Different camera angle)_ In other words, if we take the underwater volume of the ship and fill it with water, we get the weight of the ship. _(Animation, highlight the underwater volume of ship)_ This is best described by Archimedes Principle which states that the Force of Buoyancy = the weight of a unit volume of water times the underwater volume of the ship.
+*(Different camera angle)* In other words, if we take the underwater volume of the ship and fill it with water, we get the weight of the ship. *(Animation, highlight the underwater volume of ship)* This is best described by Archimedes Principle which states that the Force of Buoyancy = the weight of a unit volume of water times the underwater volume of the ship.
 
-_(@ Tow Tank, CU, boxes out of focus in backdrop)_ So what does this have to do with subdivision? Well, if we pretend the box is steel, and we kept adding more watertight bulkheads, which I have indicated by these weights, then the ship would get heavier, causing a larger underwater volume.
+*(@ Tow Tank, CU, boxes out of focus in backdrop)* So what does this have to do with subdivision? Well, if we pretend the box is steel, and we kept adding more watertight bulkheads, which I have indicated by these weights, then the ship would get heavier, causing a larger underwater volume.
 
 You may be asking, "So what! As we have learned, the force of buoyancy equals the weight of the water displaced, so with more underwater volume, there is more upward buoyant force."
 
 You would be correct. But it gets to a point where if we add too much weight, the ship cannot produce any more upward buoyant force.
 
-_(Animation on top of still picture of boxes)_ A basic way to describe it is like this. If we take a steel vessel and fill it with more and more steel bulkheads, so much so, that it resembles a solid piece of steel, than it will sink as we already know. In effect, we have taken out all of the air in the vessel, and replaced it with a dense metal. So the density turns out to be greater than 1 and the ship sinks!
+*(Animation on top of still picture of boxes)* A basic way to describe it is like this. If we take a steel vessel and fill it with more and more steel bulkheads, so much so, that it resembles a solid piece of steel, than it will sink as we already know. In effect, we have taken out all of the air in the vessel, and replaced it with a dense metal. So the density turns out to be greater than 1 and the ship sinks!
 
-_(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
+*(Pratt School Museum, in uniform)* As a Coast Guard Marine Inspector and naval architect, I have lost sleep over the thought of ships sinking and people being injured. We have to ensure that people on ships are safe by knowing how to divide the compartments. The job carries a lot of responsibility, as does any engineering discipline, but by using science and math we can make sure that our loved ones return safely from the sea!
 
 {{% resource_link eee7bfe9-1be2-975c-496f-b04747f0e092 "Link back to Day 5" "#Instructor_and_Student_Work" %}}
 
@@ -156,25 +156,25 @@ _(Pratt School Museum, in uniform)_ As a Coast Guard Marine Inspector and naval 
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
-_(@ Tow Tank / Vorticity Tank)_ Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box). Now let's put this box in the water and see what happens (box sinks). The box sinks due to the weight of the added water. But what if it contained cargo, or oil, or even people?
+*(@ Tow Tank / Vorticity Tank)* Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box). Now let's put this box in the water and see what happens (box sinks). The box sinks due to the weight of the added water. But what if it contained cargo, or oil, or even people?
 
 Now let's take ORCA II and do the same thing.
 
-_(Go Pro footage of cutting hole from inside and sinking / just audio)_
+*(Go Pro footage of cutting hole from inside and sinking / just audio)*
 
-_(facing camera)_ You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
+*(facing camera)* You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
 
-_(New angle)_ As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
+*(New angle)* As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
 
 As naval architects, how do we design ships carrying our stuff to make it into port safely, and not sink? Well, why don't we find out…
 
-_(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)_
+*(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)*
 
 Here we have ORCA I and ORCA II from before. Even though these boxes don't engage in international trade, they behave just like a thousand foot cargo ship would.
 
-If we remove the tops of both boxes and take a look inside _(Video a close up of removing the decks, just audio voice), (back to presenting)_ we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight _(point to ORCA II compartments)_; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
+If we remove the tops of both boxes and take a look inside *(Video a close up of removing the decks, just audio voice), (back to presenting)* we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight *(point to ORCA II compartments)*; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -182,35 +182,35 @@ Because ships are huge! And they carry tons of stuff we need. Ships can be up to
 
 Ships still sink though. It's expensive and impractical to design the "unsinkable ship," especially when a ship would never see that amount of damage. For that reason, naval architects consider the likelihood of damage when designing a ship.
 
-_(In Naval Construction design lab, simulation on desktop behind me)_ Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it. This gives the designer a good idea of what parts to improve on the ship, if any.
+*(In Naval Construction design lab, simulation on desktop behind me)* Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it. This gives the designer a good idea of what parts to improve on the ship, if any.
 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
-\[_Link back to Day 6_ \]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor\_and\_Student\_Work)
+[Link back to Day 6](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-6-table-read-and-office-hours/)
 
 ## {{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
 
 When we take really complex things and break them down into smaller pieces, we find out that we know a lot more about things than we think.
 
-_(@ Tow Tank / Vorticity Tank)_ Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box). Now let's put this box in the water and see what happens (box sinks). The box sinks due to the weight of the added water. But what if it contained cargo, or oil, or even people?
+*(@ Tow Tank / Vorticity Tank)* Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box). Now let's put this box in the water and see what happens (box sinks). The box sinks due to the weight of the added water. But what if it contained cargo, or oil, or even people?
 
 Now let's take ORCA II and do the same thing.
 
-_(Go Pro footage of cutting hole from inside and sinking / just audio)_
+*(Go Pro footage of cutting hole from inside and sinking / just audio)*
 
-_(facing camera)_ You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
+*(facing camera)* You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
 
-_(New angle)_ As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
+*(New angle)* As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
 
 As naval architects, how do we design ships carrying our stuff to make it into port safely, and not sink? Well, why don't we find out…
 
-_(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)_
+*(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)*
 
 Here we have ORCA I and ORCA II from before. Even though these boxes don't engage in international trade, they behave just like a thousand foot cargo ship would.
 
-If we remove the tops of both boxes and take a look inside _(Video a close up of removing the decks, just audio voice), (back to presenting)_ we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight _(point to ORCA II compartments)_; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
+If we remove the tops of both boxes and take a look inside *(Video a close up of removing the decks, just audio voice), (back to presenting)* we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't. These compartments are watertight *(point to ORCA II compartments)*; even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated. We refer to ORCA II as being subdivided.
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 Well, when we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
@@ -218,13 +218,13 @@ Because ships are huge! And they carry tons of stuff we need. Ships can be up to
 
 Ships still sink though. It's expensive and impractical to design the "unsinkable ship," especially when a ship would never see that amount of damage. For that reason, naval architects consider the likelihood of damage when designing a ship.
 
-_(In Naval Construction design lab, simulation on desktop behind me)_ Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it. This gives the designer a good idea of what parts to improve on the ship, if any.
+*(In Naval Construction design lab, simulation on desktop behind me)* Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it. This gives the designer a good idea of what parts to improve on the ship, if any.
 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
 (nothing really changed from before)
 
-\[_Link back to Day 7_ \]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor\_and\_Student\_Work)
+[Link back to Day 7](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/)
 
 ## {{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
 
@@ -250,15 +250,15 @@ Naval Engineering Lab (01 / 16 / 15 TBD)
 
 \[Fast forward to entering the door and holding box\]
 
-_(In lab, CU showing box and Paul)_ Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box, show to camera). (High angle to show box in water) Now let's put this box in the water and see what happens _(cut to GoPro footage, box sinks)_. _(Retrieving box from bottom of tank)_ The box sinks due to the weight of the added water. _(Pulling from water, CU, off to side to allow for picturres)_ But what if it contained cargo, or oil, or even people?
+*(In lab, CU showing box and Paul)* Let's take this foam box, ORCA I, and cut a hole in it (cut hole in box, show to camera). (High angle to show box in water) Now let's put this box in the water and see what happens *(cut to GoPro footage, box sinks)*. *(Retrieving box from bottom of tank)* The box sinks due to the weight of the added water. *(Pulling from water, CU, off to side to allow for picturres)* But what if it contained cargo, or oil, or even people?
 
 Now let's take ORCA II and do the same thing.
 
-_(Go Pro footage of cutting hole from inside and sinking / just audio)_
+*(Go Pro footage of cutting hole from inside and sinking / just audio)*
 
-_(facing camera)_ You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
+*(facing camera)* You can see that ORCA II didn't sink, although it's sitting at an angle. So, why didn't ORCA II sink?
 
-_(Sitting down holding both boxes,?)_ As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
+*(Sitting down holding both boxes,?)* As easy as it sounds, this simple demonstration is essential to the design of huge, complex ships; ships that are responsible for safely transporting 90% of all our stuff.
 
 (New angle) As naval architects, how do we design ships carrying our stuff to make it into port safely, and not sink? Well, why don't we find out…
 
@@ -275,17 +275,17 @@ Outside Marine Robotics Lab
 
 **Scene 2**
 
-_(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)_
+*(At Hart Nautical Collection @ MIT Museum with Herreshoff half hulls as a backdrop)*
 
 (CU showing two boxes) Here we have ORCA I and ORCA II from before. Even though these boxes don't engage in international trade, they behave just like a thousand foot cargo ship would.
 
-If we remove the tops of both boxes and take a look inside _(Video a close up of removing the decks, just audio voice), (point to ORCA II's bulkheads, point to ORCA I's lack of bulkheads)_ we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't.
+If we remove the tops of both boxes and take a look inside *(Video a close up of removing the decks, just audio voice), (point to ORCA II's bulkheads, point to ORCA I's lack of bulkheads)* we see that ORCA II is divided into compartments by these walls called transverse bulkheads, while ORCA I isn't.
 
-_(New angle, same setting as above)_ These compartments are watertight _(point to ORCA II compartments); (camera roll from boat up to CU)_ even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated.
+*(New angle, same setting as above)* These compartments are watertight *(point to ORCA II compartments); (camera roll from boat up to CU)* even if damage occurs in this part of the ship, water rushing in won't go into other compartments because the damage is isolated.
 
-_(In plans room with ships plans laid out)_ We refer to ORCA II as being subdivided, and we can see subdivision in many of these ship's plans (CU to _pointing to subdivision_).
+*(In plans room with ships plans laid out)* We refer to ORCA II as being subdivided, and we can see subdivision in many of these ship's plans (CU to *pointing to subdivision*).
 
-_(Back to CU)_ It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
+*(Back to CU)* It's unclear when subdivision started being used in boat building, but accounts of Chinese trade ships as far back as the 5{{< sup "th" >}} century, show that water could enter ships without sinking. So let's find out why this happens.
 
 To Shoot:
 
@@ -297,7 +297,7 @@ To Shoot:
 
 **Scene 3**
 
-_(Animation, possible live reshoot)_ When we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
+*(Animation, possible live reshoot)* When we divide the ship into watertight compartments, we are limiting the amount of water that can enter it. If we divided a ship into 10 equal size compartments, and one sprung a leak, then only that compartment would flood. This would cause the ship to heel and trim, but it wouldn't cause a complete loss of ship and cargo, and the ship would hobble into port and get repairs. But why does this all matter?
 
 (Plans in front of me, MIT museum) Because ships are huge! And they carry tons of stuff we need. Ships can be up to a quarter mile long and can carry millions of dollars worth of cargo. So by subdividing ships we are ensuring the safe delivery of all our stuff.
 
@@ -307,9 +307,9 @@ To Shoot:
 
 **Scene 4**
 
-_(In Naval Construction design lab, simulation on desktop behind me)_ Ships still sink though. It's expensive and impractical to design the "unsinkable ship," especially when a ship would never see that amount of damage. So that's why we use computers to help us out with subdivision.
+*(In Naval Construction design lab, simulation on desktop behind me)* Ships still sink though. It's expensive and impractical to design the "unsinkable ship," especially when a ship would never see that amount of damage. So that's why we use computers to help us out with subdivision.
 
-_(Screen record of POSSE)_ Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it.
+*(Screen record of POSSE)* Computers make it easy to simulate certain damaged cases in practically no time. With different software we can damage certain compartments and see how the ship responds to it.
 
 This gives the designer a good idea of what parts to improve on the ship, if any.
 
