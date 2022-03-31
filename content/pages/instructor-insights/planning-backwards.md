@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
@@ -9,18 +10,17 @@ parent_uid: 526193cf-30da-cdf1-c673-4faab57d51d7
 title: Planning Backwards
 uid: a0230e42-8e9a-fc43-9b16-25558c1717d3
 ---
+*Below, Elizabeth Choe and Jaime Goldstein discuss how they used backward design (Wiggins & McTighe, 2005) to identify course goals and how they used a rubric to communicate to students the non-linearity of video production work in the context of a course in which content was, by necessity, modularized to promote sequential skill development. Their conversation has been edited for clarity, length, and content.*
 
-_Below, Elizabeth Choe and Jaime Goldstein discuss how they used backward design (Wiggins & McTighe, 2005) to identify course goals and how they used a rubric to communicate to students the non-linearity of video production work in the context of a course in which content was, by necessity, modularized to promote sequential skill development. Their conversation has been edited for clarity, length, and content._
+**ELIZABETH CHOE:** I had many ideas about what I wanted students to accomplish in *20.219 Becoming the Next Bill Nye*. I wanted them to produce a video, to become digitally literate, to engage others on camera, and to understand the role of media in their own professional careers—to name just a few. However, I didn't know how to tie all of these things into coherent course goals, or how everything would build up to those goals.
 
-**ELIZABETH CHOE:** I had many ideas about what I wanted students to accomplish in _20.219 Becoming the Next Bill Nye_. I wanted them to produce a video, to become digitally literate, to engage others on camera, and to understand the role of media in their own professional careers—to name just a few. However, I didn't know how to tie all of these things into coherent course goals, or how everything would build up to those goals.
+In fact, initially, when I met with you, I said I wanted students to become familiar with camera work. You replied, “That’s not really what you want, right?” When I reflected on my experiences making [Science Out Loud](https://mass.pbslearningmedia.org/collection/mits-science-out-loud/), I realized camera work was only the tip of the iceberg of what I wanted students to learn. I was really more interested in having students become excited about communicating—and learning how hard it really is to communicate through video. These things have nothing to do with a camera. I realized that, at the end of the day, it wouldn’t be a big deal if students’ videos weren’t very good. We knew that we could help them with that part. The purpose of the class wasn't really about making a flawless final video. It was about developing students’ digital media skills.
 
-In fact, initially, when I met with you, I said I wanted students to become familiar with camera work. You replied, “That’s not really what you want, right?” When I reflected on my experiences making [Science Out Loud](http://k12videos.mit.edu/science-out-loud/), I realized camera work was only the tip of the iceberg of what I wanted students to learn. I was really more interested in having students become excited about communicating—and learning how hard it really is to communicate through video. These things have nothing to do with a camera. I realized that, at the end of the day, it wouldn’t be a big deal if students’ videos weren’t very good. We knew that we could help them with that part. The purpose of the class wasn't really about making a flawless final video. It was about developing students’ digital media skills.
+{{< resource fa64ae45-0481-4282-31e0-eafef25a5aab >}}
 
-{{< resource "fa64ae45-0481-4282-31e0-eafef25a5aab" >}}  
+Elizabeth Choe delivers a lecture in *20.219 Becoming the Next Bill Nye* (Image by MIT OpenCourseWare).
 
-Elizabeth Choe delivers a lecture in _20.219 Becoming the Next Bill Nye_ (Image by MIT OpenCourseWare).
-
-But the nuances of distinguishing between concrete skills and ways of thinking was something that I didn't really understand at first. Maybe it sounds really obvious that a skill is different than a way of thinking, but I didn't really appreciate that as a student at MIT. I just went into classes thinking, “Well, I need to learn discrete skills.” But, as the instructor for _20.219 Becoming the Next Bill Nye_, my priority was for students to feel comfortable being themselves as digital storytellers. I didn't know how to pair that with technical skills of being able to script a video, or to engage others on camera.
+But the nuances of distinguishing between concrete skills and ways of thinking was something that I didn't really understand at first. Maybe it sounds really obvious that a skill is different than a way of thinking, but I didn't really appreciate that as a student at MIT. I just went into classes thinking, “Well, I need to learn discrete skills.” But, as the instructor for *20.219 Becoming the Next Bill Nye*, my priority was for students to feel comfortable being themselves as digital storytellers. I didn't know how to pair that with technical skills of being able to script a video, or to engage others on camera.
 
 **JAIME GOLDSTEIN:** Right. So I tried to think backwards with you about where we wanted students to be at the end of the class, including the concrete skills we wanted them to be able to demonstrate and the more abstract concepts we wanted them think about—like developing a framework for understanding the role of media in their own professional careers. Wiggins and McTighe (2005) call this backward design. As an instructor, you ask yourself, “What do I want the students to be able to do when they finish this class? What will that look like? What will that sound like?” You paint a picture: by the end of this class, students will be able to have these skills, be able to do this kind of a project, and will be able to think this way about this issue.
 
@@ -30,9 +30,9 @@ I used this strategy when I taught elementary school. I always thought about the
 
 I always came up with a culminating event (authentic, when possible) for students to work towards, such as presenting to a CEO, doing a play for parents, or creating an art gallery and sharing it with the other students, so they could share what they learned. I created experiences through which each my students could carve his or her own journey through the material. I did this so that learning would become personal and meaningful. People learn when they care—and in order to make them care, they have to focus on something that they actually find meaningful.
 
-The video project in _20.219 Becoming the Next Bill Nye_ was a perfect example of a meaningful culminating event because it was authentic. Students were actually going to be filmed at the end of the course, and have the opportunity to be a part of Science Out Loud. There was also this opportunity for a very deep personal journey through the material, because the task required specific technical skills, and everybody was at a different level of developmental readiness to apply those skills. There was also the more abstract understanding about digital literacy we wanted students to develop, and students came to the class with different levels of this understanding already in place. In other words, everyone had the opportunity to experience reaching his or her own finish line.
+The video project in *20.219 Becoming the Next Bill Nye* was a perfect example of a meaningful culminating event because it was authentic. Students were actually going to be filmed at the end of the course, and have the opportunity to be a part of Science Out Loud. There was also this opportunity for a very deep personal journey through the material, because the task required specific technical skills, and everybody was at a different level of developmental readiness to apply those skills. There was also the more abstract understanding about digital literacy we wanted students to develop, and students came to the class with different levels of this understanding already in place. In other words, everyone had the opportunity to experience reaching his or her own finish line.
 
-{{< resource "7ca30a54-e6b3-776a-0f28-ea4f9af05bc7" >}}  
+{{< resource 7ca30a54-e6b3-776a-0f28-ea4f9af05bc7 >}}
 
 Jaime Goldstein helps a student refine his idea for the video he will produce in the course (Image by MIT OpenCourseWare).
 
@@ -56,7 +56,6 @@ So we established four class values: spark, clarity, thoughtfulness, and challen
 
 If you look at the final reflections students wrote in the class, or some of our teaching evaluations, you’ll see that none of the students said, “Now I know how to make videos and I'm going to make a bunch.” No one said that. No one said, “Now I'm going to go be a filmmaker.” But they did say things like, “I learned a lot about myself,” and “I feel empowered to be a better public speaker, and to communicate my ideas eloquently.” Someone even said, “Now I have a much better appreciation for how much work goes into films, and I can't even see a bad movie without appreciating it just a little bit.” At the end of the day, that's what I really wanted. I didn't really care if people became masters at [Final Cut](http://www.apple.com/final-cut-pro/). That wasn't the point. I do think that learning how to do the technical aspects of video production is important. It just wasn't our focus.
 
-Reference
----------
+## Reference
 
-Wiggins, Grant J. and Jay McTighe. _Understanding by Design_. 2nd ed. ASCD, 2005. ISBN: 9780131950849.
+Wiggins, Grant J. and Jay McTighe. *Understanding by Design*. 2nd ed. ASCD, 2005. ISBN: 9780131950849.
