@@ -112,7 +112,7 @@ Andrea: (need closing statements…)
 
 This video is courtesy of [Andrea Desrosiers](http://mit219.tumblr.com/tagged/aedesros) on Tumblr and is provided under our Creative Commons license.
 
-[Link back to Day 3](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-3-storytellers-toolkit-pt-1/#Instructor_and_Student_Work)
+[Link back to Day 3](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-3-storytellers-toolkit-pt-1/#Instructor_and_Student_Work)
 
 ## {{< anchor "Day_4-Script" >}}{{< /anchor >}}Day 4 - Andrea's Second Script Idea for Ortho
 
@@ -228,7 +228,7 @@ Smarter.
 
 And once we've tasted the forbidden fruit will we still be human?
 
-[Link back to Day 7](https://ocwnext.odl.mit.edu/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/)
+[Link back to Day 7](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/)
 
 ## {{< anchor "Ortho_Shot_List-prelim" >}}{{< /anchor >}}Day 8 Shot List
 
