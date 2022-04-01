@@ -228,7 +228,7 @@ Smarter.
 
 And once we've tasted the forbidden fruit will we still be human?
 
-[Link back to Day 7](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/)
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" %}}
 
 ## {{< anchor "Ortho_Shot_List-prelim" >}}{{< /anchor >}}Day 8 Shot List
 

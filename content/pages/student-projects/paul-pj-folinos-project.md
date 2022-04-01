@@ -186,7 +186,7 @@ Ships still sink though. It's expensive and impractical to design the "unsinkabl
 
 So even though ships might seem like these complicated, intricate things… they are really just based on physical principles that we already know.
 
-[Link back to Day 6](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-6-table-read-and-office-hours/#Instructor_and_Student_Work)
+{{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "Link back to Day 6" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Pjfolino_s_Script" >}}{{< /anchor >}}Day 7 Script
 
@@ -224,7 +224,7 @@ So even though ships might seem like these complicated, intricate things… they
 
 (nothing really changed from before)
 
-[Link back to Day 7](/courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/pages/day-7-table-read-and-post-production/#Instructor_and_Student_Work)
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "Link back to Day 7" "#Instructor_and_Student_Work" %}}
 
 ## {{< anchor "Pjfolino_s_Day_8_Shot_List" >}}{{< /anchor >}}Day 8 Shot List
 
