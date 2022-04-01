@@ -35,11 +35,11 @@ After taking this course, students should be able to:
 
 ## Instructor Insights
 
-\[
+[
 
 {{< resource 20aaa26b-64c8-0889-f98a-21c1e21f9877 >}}
 
-\]({{< baseurl >}}/resources/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes)
+]({{< baseurl >}}/resources/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes)
 
  
 
