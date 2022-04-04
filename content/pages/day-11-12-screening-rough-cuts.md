@@ -73,8 +73,7 @@ Comments
 {{% resource_link 32b67e5b-5210-05d4-f811-9b60fb7ee964 "Joshua's rough cut" "#Rough_Cut" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link cef98b83-aedd-875b-dbb8-241bf6e9abe6 "Comments on Joshua's rough cut (PDF)" %}}[  
-]({{< baseurl >}}/resources/mit20_219iap15_joshuacom)
+{{% resource_link cef98b83-aedd-875b-dbb8-241bf6e9abe6 "Comments on Joshua's rough cut (PDF)" %}}{{% resource_link "cef98b83-aedd-875b-dbb8-241bf6e9abe6" "   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}

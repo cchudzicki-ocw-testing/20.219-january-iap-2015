@@ -399,8 +399,7 @@ Also notice how the better method depends on prearranging the people in alphabet
 
 Aha! So that's where my gloves are! And that's the story of Search!
 
-[_Link back to Day 7  
-_]({{< baseurl >}}/pages/day-7-table-read-and-post-production#Instructor_and_Student_Work)
+{{% resource_link "d8c0d81b-2a38-c0d7-c4ff-4a8cfacacb2d" "_Link back to Day 7   _" "#Instructor_and_Student_Work" %}}
 
 {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 --------------------------------------------------
