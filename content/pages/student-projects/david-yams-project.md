@@ -153,7 +153,7 @@ I'll add in the cutscenes / camera angles / go through the writing again tmr.)
 
 {{< anchor "_4_" >}}{{< /anchor >}}\[4\] Koxa, Matthijs, et al. "[Voluntary Activation of the Sympathetic Nervous System and Attenuation of the Innate Immune Response in Humans](http://dx.doi.org/10.1073/pnas.1322174111)." _Proceedings of the National Academy of Sciences of the United States of America_ 111, no. 20 (2014): 7379–84.
 
-[_Link back to Day 6_ ]({{< baseurl >}}/pages/day-6-table-read-and-office-hours#Instructor\_and\_Student\_Work)
+{{% resource_link "7c38a44e-5ebb-8403-cf21-c2adc0137e4b" "_Link back to Day 6_ " "#Instructor\_and\_Student\_Work" %}}
 
 ## {{< anchor "Rough_Cut" >}}{{< /anchor >}}Rough Cut
 
