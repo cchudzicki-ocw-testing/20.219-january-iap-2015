@@ -35,9 +35,7 @@ After taking this course, students should be able to:
 
 ## Instructor Insights
 
-[
-{{< resource 20aaa26b-64c8-0889-f98a-21c1e21f9877 >}}
-]({{< baseurl >}}/resources/instructor-interview-inspiration-for-the-course-and-intended-learning-outcomes)
+{{< resource uuid="20aaa26b-64c8-0889-f98a-21c1e21f9877" href_uuid="f079282d-f10a-bc02-5d05-341dd52e2d8a" >}}
 
  
 
