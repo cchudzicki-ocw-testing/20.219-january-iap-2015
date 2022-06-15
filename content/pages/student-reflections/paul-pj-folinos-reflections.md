@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Paul PJ Folino on the course and the course project.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Reflections

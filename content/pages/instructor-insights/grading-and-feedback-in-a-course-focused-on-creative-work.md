@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: "In this section Elizabeth Choe and Jaime Goldstein talk about how they\
+  \ approached grading in 20.219 Becoming the Next Bill Nye, a course focused on students\u2019\
+  \ creative work. They also discuss the challenges associated with and strategies\
+  \ for providing students with meaningful feedback about their work. Their conversation\
+  \ has been edited for clarity, length, and content."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection

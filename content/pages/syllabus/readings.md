@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a few readings recommended by the instructor for
+  students who want to learn more about video production and learning.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

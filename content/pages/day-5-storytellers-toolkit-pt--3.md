@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The section explains what happened on Day 5 of this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Day 5: Storyteller''s Toolkit Pt. 3'

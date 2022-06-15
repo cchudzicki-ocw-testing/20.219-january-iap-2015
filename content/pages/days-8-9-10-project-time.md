@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The section explains what happened on Days 8, 9, and 10 of this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Days 8, 9, & 10: Project Time'

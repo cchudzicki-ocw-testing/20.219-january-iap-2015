@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The section explains what happened on Day 7 of this course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'Day 7: Table-read and Post-production'

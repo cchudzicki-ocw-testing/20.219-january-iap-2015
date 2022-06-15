@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This sections contains the thoughts and reflections of the instructors
+  and the students of the class.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Student Reflections

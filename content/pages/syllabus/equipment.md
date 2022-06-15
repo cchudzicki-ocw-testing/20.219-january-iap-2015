@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains information about the camera equipment available
+  to the MIT students in the class.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

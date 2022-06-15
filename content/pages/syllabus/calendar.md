@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The calendar lists the topics covered on each day of the course.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

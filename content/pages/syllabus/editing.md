@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains resources for students who want to learn more about
+  video editing.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus

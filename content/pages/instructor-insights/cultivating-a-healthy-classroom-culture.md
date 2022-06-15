@@ -1,5 +1,15 @@
 ---
 content_type: page
+description: "In this section Elizabeth Choe and Jaime Goldstein discuss the sense\
+  \ of community that was evident in 20.219 Becoming the Next Bill Nye. They touch\
+  \ on how situating themselves as facilitators-of-learning, as opposed to omniscient\
+  \ givers-of-knowledge, communicated to students their respect for them as learners.\
+  \ The instructors also share that reading students\u2019 daily blog reflections\
+  \ served as a strategy for tuning in to the general wellness of individual students\
+  \ and the group. They note that the simple act of checking in with students about\
+  \ their daily lives offered the instructors opportunities to highlight how students\
+  \ might use their personal interests to fuel interesting projects in the course.\
+  \ Their conversation has been edited for clarity, length, and content."
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: CourseSection
