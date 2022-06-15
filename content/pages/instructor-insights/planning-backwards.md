@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: In this section Elizabeth Choe and Jaime Goldstein discuss how they used
+  backward design (Wiggins & McTighe, 2005) to identify course goals and how they
+  used a rubric to communicate to students the non-linearity of video production work
+  in the context of a course in which content was, by necessity, modularized to promote
+  sequential skill development. Their conversation has been edited for clarity, length,
+  and content.
 draft: false
 layout: instructor_insights
 learning_resource_types: []
