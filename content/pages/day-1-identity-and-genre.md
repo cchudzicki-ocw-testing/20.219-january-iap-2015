@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The section explains what happened on Day 1 of this course.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection

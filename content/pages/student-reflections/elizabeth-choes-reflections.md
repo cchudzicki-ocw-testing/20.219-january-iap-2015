@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the reflections (in the form of blogs and vlogs)
+  of Elizabeth Choe on the course and the course project.
 draft: false
 learning_resource_types: []
 ocw_type: CourseSection
