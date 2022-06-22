@@ -1,7 +1,7 @@
 ---
 content_type: page
-description: ''
-draft: false
+description: Videos and written materials for one student project.
+draft: true
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Student Projects
