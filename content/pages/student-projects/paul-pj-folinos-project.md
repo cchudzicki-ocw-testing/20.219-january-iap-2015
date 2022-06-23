@@ -1,6 +1,6 @@
 ---
 content_type: page
-description: Videos and written materials for one student project.
+description: 'Videos and written materials for one student project. '
 draft: true
 learning_resource_types: []
 ocw_type: CourseSection
