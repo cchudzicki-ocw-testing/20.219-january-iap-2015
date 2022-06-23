@@ -20,7 +20,7 @@ related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
 start_time: '3849'
-title: 'Workshop:: Paul''s script'
+title: 'Workshop: Paul''s script'
 uid: a5e968e7-4e2e-9c0f-67c1-26fefedd44a3
 video_files:
   video_captions_file: /courses/20-219-becoming-the-next-bill-nye-writing-and-hosting-the-educational-show-january-iap-2015/48bfdcb0451f532c8781a603ff00f3cf_AjK2zF9yN0k.vtt
