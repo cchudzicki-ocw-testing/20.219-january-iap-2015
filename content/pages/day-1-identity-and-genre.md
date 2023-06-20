@@ -16,7 +16,6 @@ uid: e7ab07a5-9bf4-78a1-8a95-a815093ec211
 - [Part 2: Visual Storytelling](#Part_2:_Visual_Storytelling)
 - [Part 3: Wrap-up and Assignment](#Part_3:_Wrap-up_and_Assignment)
 - [Assignments](#Assignments)
-- [Instructor and Student Work](#Instructor_and_Student_Work)
 
 ## {{< anchor "Overview" >}}{{< /anchor >}}Overview
 
@@ -90,6 +89,8 @@ What's one aspect of science / engineering that you find fascinating? Can you te
 ### Daily Blog / Vlog
 
 Provide documentation on your process / difficulties in completing this assignment. This can take the form of a written blog post reflection, photos, another "selfie" video (\<2 min.), or other creative media format of your choice. Upload the post to the class tumblr with the tag #day1**.**
+
+ 
 
  
 
